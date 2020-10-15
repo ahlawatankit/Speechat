@@ -14,3 +14,19 @@ https://github.com/Shahabks/myprosody
 
 I just uploaded a folder in which there are some saved labeled datasets + already-trained models + two file are written/coded in praat (*.praat) that you need when you run the python file for training new models. .... also all my experiments
 As far as the python libraries are concerned, except "parselmouth" other libraries are standard python libraries. Parselmouth can be installed by pip (https://parselmouth.readthedocs.io/en/docs/examples.html more information).
+
+### How to run Speechat on you custom dataset
+#### Setup
+```
+  #Create virtual env speechat-env 
+  python3 -m venv speechat-env
+  #Activate env
+  source speechat-env/bin/activate
+  #install requirements
+  pip3 install -r requirements.txt
+```
+#### Runing
+##### Change audioFilesPath in spokenlanguageassessment.py
+```
+  python3 spokenlanguageassessment.py
+```
