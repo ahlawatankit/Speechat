@@ -1,7 +1,7 @@
 import sys
 def my_except_hook(exctype, value, traceback):
         print('There has been an error in the system')
-#sys.excepthook = my_except_hook
+        
 import warnings
 if not sys.warnoptions:
     warnings.simplefilter("ignore")
@@ -110,43 +110,59 @@ print("=========================================================================
 filename="dataset"+"/"+"essen"+"/"+"CART_model.sav"
 model = pickle.load(open(filename, 'rb'))
 predictions_CART_model = model.predict(x)
-print("58% accuracy    ",predictions_CART_model)
+predictions_proba_CART_model = list(model.predict_proba(x))
+print("CART MODEL 58% Accuracy")
+print(predictions_CART_model)
+print(model.predict_proba(x))
 
 filename="dataset"+"/"+"essen"+"/"+"KNN_model.sav"
 model = pickle.load(open(filename, 'rb'))
 predictions_KNN_model = model.predict(x)
+predictions_proba_KNN_model = list(model.predict_proba(x))
 print("65% accuracy    ",predictions_KNN_model)
 
 filename="dataset"+"/"+"essen"+"/"+"LDA_model.sav"
 model = pickle.load(open(filename, 'rb'))
 predictions_LDA_model = model.predict(x)
+predictions_proba_LDA_model = list(model.predict_proba(x))
 print("70% accuracy    ",predictions_LDA_model)
 
 filename="dataset"+"/"+"essen"+"/"+"LR_model.sav"
 model = pickle.load(open(filename, 'rb'))
 predictions_LR_model = model.predict(x)
+predictions_proba_LR_model = list(model.predict_proba(x))
 print("67% accuracy    ",predictions_LR_model)
 
 filename="dataset"+"/"+"essen"+"/"+"NB_model.sav"
 model = pickle.load(open(filename, 'rb'))
 predictions_NB_model = model.predict(x)
+predictions_proba_NB_model = list(model.predict_proba(x))
 print("64% accuracy    ",predictions_NB_model)
 
 filename="dataset"+"/"+"essen"+"/"+"SVN_model.sav"
 model = pickle.load(open(filename, 'rb'))
 predictions_SVN_model = model.predict(x)
 print("63% accuracy    ",predictions_SVN_model)
+# print(np.array(predictions_SVN_model).shape)
+
+
 
 dataSave = pd.DataFrame({
 	"files" : files,
 	"pronunciation" : pronunciation,
 	"predictions_CART_model" : predictions_CART_model,
+	"predictions_proba_CART_model" : predictions_proba_CART_model,
 	"predictions_KNN_model" : predictions_KNN_model,
+	"predictions_proba_KNN_model" : predictions_proba_KNN_model,
 	"predictions_LDA_model" : predictions_LDA_model,
+	"predictions_proba_LDA_model" : predictions_proba_LDA_model,
 	"predictions_LR_model" : predictions_LR_model,
+	"predictions_proba_LR_model" : predictions_proba_LR_model,
 	"predictions_NB_model" : predictions_NB_model,
+	"predictions_proba_NB_model" : predictions_proba_NB_model,
+ 
 	"predictions_SVN_model" : predictions_SVN_model
 })
 
 # Result file name 
-dataSave.to_csv('vahan-TC-20-Dataset-Result.csv',index=False)
+dataSave.to_csv('vahan-TC-20-Dataset-Result-With-Proba.csv',index=False)
