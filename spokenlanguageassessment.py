@@ -27,7 +27,7 @@ from pandas import read_csv
 
 
 
-audioFilesPath="dataset"+"/"+"vahan-TC-20-Dataset"+"/"    # Path for audio-files
+audioFilesPath="dataset"+"/"+"VAHAN-monologue-30"+"/"    # Path for audio-files
 
 pa1="dataset"+"/"+"datanewchi22.csv"
 pa2="dataset"+"/"+"stats.csv"
@@ -165,4 +165,4 @@ dataSave = pd.DataFrame({
 })
 
 # Result file name 
-dataSave.to_csv('vahan-TC-20-Dataset-Result-With-Proba.csv',index=False)
+dataSave.to_csv('VAHAN-monologue-30_result.csv',index=False)
