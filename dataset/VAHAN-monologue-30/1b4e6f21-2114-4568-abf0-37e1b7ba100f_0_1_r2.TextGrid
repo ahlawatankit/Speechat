@@ -1,0 +1,3889 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 175.241875 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "TextTier" 
+        name = "syllables" 
+        xmin = 0 
+        xmax = 175.241875 
+        points: size = 559 
+        points [1]:
+            number = 3.081068449868897 
+            mark = "1" 
+        points [2]:
+            number = 3.175451031266578 
+            mark = "2" 
+        points [3]:
+            number = 3.2985887003410683 
+            mark = "3" 
+        points [4]:
+            number = 3.842846625690376 
+            mark = "4" 
+        points [5]:
+            number = 3.983140675972882 
+            mark = "5" 
+        points [6]:
+            number = 5.652520633789997 
+            mark = "6" 
+        points [7]:
+            number = 5.765037139512796 
+            mark = "7" 
+        points [8]:
+            number = 7.032626154276247 
+            mark = "8" 
+        points [9]:
+            number = 8.358038051970503 
+            mark = "9" 
+        points [10]:
+            number = 8.477659047630961 
+            mark = "10" 
+        points [11]:
+            number = 8.633849519987823 
+            mark = "11" 
+        points [12]:
+            number = 8.793874905126938 
+            mark = "12" 
+        points [13]:
+            number = 8.866046077973408 
+            mark = "13" 
+        points [14]:
+            number = 8.985980457361865 
+            mark = "14" 
+        points [15]:
+            number = 9.14497668007984 
+            mark = "15" 
+        points [16]:
+            number = 9.68239450467636 
+            mark = "16" 
+        points [17]:
+            number = 9.922847912276673 
+            mark = "17" 
+        points [18]:
+            number = 10.246775274399507 
+            mark = "18" 
+        points [19]:
+            number = 10.400353481711214 
+            mark = "19" 
+        points [20]:
+            number = 11.704782735988793 
+            mark = "20" 
+        points [21]:
+            number = 11.813473306377585 
+            mark = "21" 
+        points [22]:
+            number = 12.437612521136018 
+            mark = "22" 
+        points [23]:
+            number = 12.49387338545154 
+            mark = "23" 
+        points [24]:
+            number = 13.188615470822992 
+            mark = "24" 
+        points [25]:
+            number = 13.3489800206583 
+            mark = "25" 
+        points [26]:
+            number = 13.500492380656969 
+            mark = "26" 
+        points [27]:
+            number = 13.594896358156891 
+            mark = "27" 
+        points [28]:
+            number = 13.678847605203082 
+            mark = "28" 
+        points [29]:
+            number = 13.838563840950705 
+            mark = "29" 
+        points [30]:
+            number = 14.022142017978897 
+            mark = "30" 
+        points [31]:
+            number = 14.123167584465154 
+            mark = "31" 
+        points [32]:
+            number = 14.346726644269609 
+            mark = "32" 
+        points [33]:
+            number = 14.529840937539653 
+            mark = "33" 
+        points [34]:
+            number = 14.829902997699381 
+            mark = "34" 
+        points [35]:
+            number = 15.184334661306735 
+            mark = "35" 
+        points [36]:
+            number = 15.455027385680776 
+            mark = "36" 
+        points [37]:
+            number = 15.718371320603659 
+            mark = "37" 
+        points [38]:
+            number = 15.789438229345649 
+            mark = "38" 
+        points [39]:
+            number = 16.036618282162475 
+            mark = "39" 
+        points [40]:
+            number = 16.15434506213658 
+            mark = "40" 
+        points [41]:
+            number = 16.19723896833615 
+            mark = "41" 
+        points [42]:
+            number = 16.293693994119064 
+            mark = "42" 
+        points [43]:
+            number = 16.487584451858538 
+            mark = "43" 
+        points [44]:
+            number = 16.770482408586393 
+            mark = "44" 
+        points [45]:
+            number = 16.83226446206925 
+            mark = "45" 
+        points [46]:
+            number = 16.941845761357968 
+            mark = "46" 
+        points [47]:
+            number = 17.060061237521644 
+            mark = "47" 
+        points [48]:
+            number = 17.152984640557325 
+            mark = "48" 
+        points [49]:
+            number = 17.24668880114937 
+            mark = "49" 
+        points [50]:
+            number = 17.337649207657027 
+            mark = "50" 
+        points [51]:
+            number = 17.453027506990114 
+            mark = "51" 
+        points [52]:
+            number = 17.568790226136283 
+            mark = "52" 
+        points [53]:
+            number = 17.742457197681308 
+            mark = "53" 
+        points [54]:
+            number = 17.882492689482746 
+            mark = "54" 
+        points [55]:
+            number = 18.162473785448032 
+            mark = "55" 
+        points [56]:
+            number = 18.417887146978348 
+            mark = "56" 
+        points [57]:
+            number = 19.00919371223079 
+            mark = "57" 
+        points [58]:
+            number = 19.21533068146573 
+            mark = "58" 
+        points [59]:
+            number = 19.349593619087223 
+            mark = "59" 
+        points [60]:
+            number = 19.459031823696566 
+            mark = "60" 
+        points [61]:
+            number = 19.70456994102469 
+            mark = "61" 
+        points [62]:
+            number = 19.96519524872937 
+            mark = "62" 
+        points [63]:
+            number = 20.23714598389747 
+            mark = "63" 
+        points [64]:
+            number = 21.934921170154123 
+            mark = "64" 
+        points [65]:
+            number = 23.54804623319197 
+            mark = "65" 
+        points [66]:
+            number = 23.675645850004592 
+            mark = "66" 
+        points [67]:
+            number = 23.848076285014656 
+            mark = "67" 
+        points [68]:
+            number = 23.99911964934908 
+            mark = "68" 
+        points [69]:
+            number = 24.087935535394987 
+            mark = "69" 
+        points [70]:
+            number = 24.24927198019516 
+            mark = "70" 
+        points [71]:
+            number = 24.427680617333206 
+            mark = "71" 
+        points [72]:
+            number = 24.548994358562148 
+            mark = "72" 
+        points [73]:
+            number = 24.760346803505396 
+            mark = "73" 
+        points [74]:
+            number = 24.89305604393577 
+            mark = "74" 
+        points [75]:
+            number = 25.02172730194394 
+            mark = "75" 
+        points [76]:
+            number = 25.241310375761056 
+            mark = "76" 
+        points [77]:
+            number = 25.312739987270536 
+            mark = "77" 
+        points [78]:
+            number = 25.42778689989906 
+            mark = "78" 
+        points [79]:
+            number = 25.668012473050474 
+            mark = "79" 
+        points [80]:
+            number = 25.88569703011177 
+            mark = "80" 
+        points [81]:
+            number = 26.104621958390545 
+            mark = "81" 
+        points [82]:
+            number = 28.508343149335246 
+            mark = "82" 
+        points [83]:
+            number = 28.65547348882371 
+            mark = "83" 
+        points [84]:
+            number = 31.069253886722425 
+            mark = "84" 
+        points [85]:
+            number = 32.841595605827415 
+            mark = "85" 
+        points [86]:
+            number = 33.024011595989755 
+            mark = "86" 
+        points [87]:
+            number = 33.24222007026854 
+            mark = "87" 
+        points [88]:
+            number = 33.430977095808686 
+            mark = "88" 
+        points [89]:
+            number = 33.708662573127576 
+            mark = "89" 
+        points [90]:
+            number = 33.81328513782089 
+            mark = "90" 
+        points [91]:
+            number = 35.34817902289741 
+            mark = "91" 
+        points [92]:
+            number = 35.45132475998041 
+            mark = "92" 
+        points [93]:
+            number = 35.98989251689836 
+            mark = "93" 
+        points [94]:
+            number = 36.17219275673516 
+            mark = "94" 
+        points [95]:
+            number = 36.272049511552595 
+            mark = "95" 
+        points [96]:
+            number = 36.49321612449683 
+            mark = "96" 
+        points [97]:
+            number = 36.64572181381669 
+            mark = "97" 
+        points [98]:
+            number = 36.71950145974156 
+            mark = "98" 
+        points [99]:
+            number = 36.89856368752828 
+            mark = "99" 
+        points [100]:
+            number = 37.08543613839695 
+            mark = "100" 
+        points [101]:
+            number = 37.14496797618517 
+            mark = "101" 
+        points [102]:
+            number = 37.24165988541366 
+            mark = "102" 
+        points [103]:
+            number = 37.461318696658914 
+            mark = "103" 
+        points [104]:
+            number = 37.71692234817511 
+            mark = "104" 
+        points [105]:
+            number = 39.55490300130659 
+            mark = "105" 
+        points [106]:
+            number = 41.1142728788486 
+            mark = "106" 
+        points [107]:
+            number = 41.27523424639819 
+            mark = "107" 
+        points [108]:
+            number = 41.3958272394518 
+            mark = "108" 
+        points [109]:
+            number = 41.57824712786829 
+            mark = "109" 
+        points [110]:
+            number = 41.71324364248303 
+            mark = "110" 
+        points [111]:
+            number = 41.843725870152944 
+            mark = "111" 
+        points [112]:
+            number = 42.02793225637541 
+            mark = "112" 
+        points [113]:
+            number = 42.19538537951003 
+            mark = "113" 
+        points [114]:
+            number = 42.394165756373 
+            mark = "114" 
+        points [115]:
+            number = 42.55485575697747 
+            mark = "115" 
+        points [116]:
+            number = 42.73807674326117 
+            mark = "116" 
+        points [117]:
+            number = 42.91605255705348 
+            mark = "117" 
+        points [118]:
+            number = 43.102048105338895 
+            mark = "118" 
+        points [119]:
+            number = 43.248572234633116 
+            mark = "119" 
+        points [120]:
+            number = 43.48813983359186 
+            mark = "120" 
+        points [121]:
+            number = 43.54486931359966 
+            mark = "121" 
+        points [122]:
+            number = 43.83786844490026 
+            mark = "122" 
+        points [123]:
+            number = 43.97738178074527 
+            mark = "123" 
+        points [124]:
+            number = 44.14741285948088 
+            mark = "124" 
+        points [125]:
+            number = 44.391183832981056 
+            mark = "125" 
+        points [126]:
+            number = 44.57731850284665 
+            mark = "126" 
+        points [127]:
+            number = 44.71515069651894 
+            mark = "127" 
+        points [128]:
+            number = 44.90316262410857 
+            mark = "128" 
+        points [129]:
+            number = 45.01022514590866 
+            mark = "129" 
+        points [130]:
+            number = 45.070211746670566 
+            mark = "130" 
+        points [131]:
+            number = 45.177671586086454 
+            mark = "131" 
+        points [132]:
+            number = 45.301079708514436 
+            mark = "132" 
+        points [133]:
+            number = 45.3755639834843 
+            mark = "133" 
+        points [134]:
+            number = 45.56573009470743 
+            mark = "134" 
+        points [135]:
+            number = 45.66214626431473 
+            mark = "135" 
+        points [136]:
+            number = 45.80014762649961 
+            mark = "136" 
+        points [137]:
+            number = 45.95197555316874 
+            mark = "137" 
+        points [138]:
+            number = 46.137285120872114 
+            mark = "138" 
+        points [139]:
+            number = 46.26766144785643 
+            mark = "139" 
+        points [140]:
+            number = 46.66364990402055 
+            mark = "140" 
+        points [141]:
+            number = 46.77670384380083 
+            mark = "141" 
+        points [142]:
+            number = 46.848296078292314 
+            mark = "142" 
+        points [143]:
+            number = 46.91272830144914 
+            mark = "143" 
+        points [144]:
+            number = 47.07828532166523 
+            mark = "144" 
+        points [145]:
+            number = 47.282979561321305 
+            mark = "145" 
+        points [146]:
+            number = 47.436960491066344 
+            mark = "146" 
+        points [147]:
+            number = 47.537274643566406 
+            mark = "147" 
+        points [148]:
+            number = 49.4503492689784 
+            mark = "148" 
+        points [149]:
+            number = 51.359338100726106 
+            mark = "149" 
+        points [150]:
+            number = 51.66716888396039 
+            mark = "150" 
+        points [151]:
+            number = 51.82152535461355 
+            mark = "151" 
+        points [152]:
+            number = 51.875838509050006 
+            mark = "152" 
+        points [153]:
+            number = 51.990368205320586 
+            mark = "153" 
+        points [154]:
+            number = 52.23828159601711 
+            mark = "154" 
+        points [155]:
+            number = 52.38848605593402 
+            mark = "155" 
+        points [156]:
+            number = 52.498969056839556 
+            mark = "156" 
+        points [157]:
+            number = 52.59501053552972 
+            mark = "157" 
+        points [158]:
+            number = 52.69610815945243 
+            mark = "158" 
+        points [159]:
+            number = 52.82656483188139 
+            mark = "159" 
+        points [160]:
+            number = 53.01648098769775 
+            mark = "160" 
+        points [161]:
+            number = 53.085936064035764 
+            mark = "161" 
+        points [162]:
+            number = 53.18150672532733 
+            mark = "162" 
+        points [163]:
+            number = 53.30813777523548 
+            mark = "163" 
+        points [164]:
+            number = 53.58622227333609 
+            mark = "164" 
+        points [165]:
+            number = 53.63952806975023 
+            mark = "165" 
+        points [166]:
+            number = 53.75343954284445 
+            mark = "166" 
+        points [167]:
+            number = 53.87111587262026 
+            mark = "167" 
+        points [168]:
+            number = 53.95783510266044 
+            mark = "168" 
+        points [169]:
+            number = 54.17436879131075 
+            mark = "169" 
+        points [170]:
+            number = 54.311611372799625 
+            mark = "170" 
+        points [171]:
+            number = 54.506226094372394 
+            mark = "171" 
+        points [172]:
+            number = 54.60025474048748 
+            mark = "172" 
+        points [173]:
+            number = 54.823455646620395 
+            mark = "173" 
+        points [174]:
+            number = 55.1132712597843 
+            mark = "174" 
+        points [175]:
+            number = 55.48754842810474 
+            mark = "175" 
+        points [176]:
+            number = 55.69685202869935 
+            mark = "176" 
+        points [177]:
+            number = 55.80174984492037 
+            mark = "177" 
+        points [178]:
+            number = 56.02168576134974 
+            mark = "178" 
+        points [179]:
+            number = 56.263073296023734 
+            mark = "179" 
+        points [180]:
+            number = 56.52196782063584 
+            mark = "180" 
+        points [181]:
+            number = 56.8059284296113 
+            mark = "181" 
+        points [182]:
+            number = 57.02816231995171 
+            mark = "182" 
+        points [183]:
+            number = 57.13877139131917 
+            mark = "183" 
+        points [184]:
+            number = 57.24180342681326 
+            mark = "184" 
+        points [185]:
+            number = 57.33955996337538 
+            mark = "185" 
+        points [186]:
+            number = 57.444167020343826 
+            mark = "186" 
+        points [187]:
+            number = 57.55788676496547 
+            mark = "187" 
+        points [188]:
+            number = 57.73240214036777 
+            mark = "188" 
+        points [189]:
+            number = 57.887391945757486 
+            mark = "189" 
+        points [190]:
+            number = 58.050254026881916 
+            mark = "190" 
+        points [191]:
+            number = 58.300702636899096 
+            mark = "191" 
+        points [192]:
+            number = 58.57861399297367 
+            mark = "192" 
+        points [193]:
+            number = 58.891825835356045 
+            mark = "193" 
+        points [194]:
+            number = 59.47576679396204 
+            mark = "194" 
+        points [195]:
+            number = 59.670556534075224 
+            mark = "195" 
+        points [196]:
+            number = 59.73997750703505 
+            mark = "196" 
+        points [197]:
+            number = 59.887938558007306 
+            mark = "197" 
+        points [198]:
+            number = 60.10264903877474 
+            mark = "198" 
+        points [199]:
+            number = 60.23168448011984 
+            mark = "199" 
+        points [200]:
+            number = 60.33652215262903 
+            mark = "200" 
+        points [201]:
+            number = 60.47218314779727 
+            mark = "201" 
+        points [202]:
+            number = 60.70445058415773 
+            mark = "202" 
+        points [203]:
+            number = 61.03251680918892 
+            mark = "203" 
+        points [204]:
+            number = 61.24162800663689 
+            mark = "204" 
+        points [205]:
+            number = 61.30865587832117 
+            mark = "205" 
+        points [206]:
+            number = 61.46476946090425 
+            mark = "206" 
+        points [207]:
+            number = 61.57192706942956 
+            mark = "207" 
+        points [208]:
+            number = 61.730977434094896 
+            mark = "208" 
+        points [209]:
+            number = 61.83525376516082 
+            mark = "209" 
+        points [210]:
+            number = 62.08281065576038 
+            mark = "210" 
+        points [211]:
+            number = 62.14763443884774 
+            mark = "211" 
+        points [212]:
+            number = 62.377070382384396 
+            mark = "212" 
+        points [213]:
+            number = 62.47460399229844 
+            mark = "213" 
+        points [214]:
+            number = 62.68803292642582 
+            mark = "214" 
+        points [215]:
+            number = 62.916861536927875 
+            mark = "215" 
+        points [216]:
+            number = 64.5901507029699 
+            mark = "216" 
+        points [217]:
+            number = 65.84563624468416 
+            mark = "217" 
+        points [218]:
+            number = 66.03481893654309 
+            mark = "218" 
+        points [219]:
+            number = 66.8010904395853 
+            mark = "219" 
+        points [220]:
+            number = 67.04175555110805 
+            mark = "220" 
+        points [221]:
+            number = 67.17532636368996 
+            mark = "221" 
+        points [222]:
+            number = 67.28599427001278 
+            mark = "222" 
+        points [223]:
+            number = 67.43800474428716 
+            mark = "223" 
+        points [224]:
+            number = 67.61604059384307 
+            mark = "224" 
+        points [225]:
+            number = 67.7681318810416 
+            mark = "225" 
+        points [226]:
+            number = 68.06188421606724 
+            mark = "226" 
+        points [227]:
+            number = 68.1845681187737 
+            mark = "227" 
+        points [228]:
+            number = 68.40306813872714 
+            mark = "228" 
+        points [229]:
+            number = 68.52686613101392 
+            mark = "229" 
+        points [230]:
+            number = 68.68355681857574 
+            mark = "230" 
+        points [231]:
+            number = 68.86984351673385 
+            mark = "231" 
+        points [232]:
+            number = 69.04312649973481 
+            mark = "232" 
+        points [233]:
+            number = 69.20739060176071 
+            mark = "233" 
+        points [234]:
+            number = 69.41838459695947 
+            mark = "234" 
+        points [235]:
+            number = 69.55133279110811 
+            mark = "235" 
+        points [236]:
+            number = 69.70791435224697 
+            mark = "236" 
+        points [237]:
+            number = 69.83394819284618 
+            mark = "237" 
+        points [238]:
+            number = 69.93640102813558 
+            mark = "238" 
+        points [239]:
+            number = 70.00095312427983 
+            mark = "239" 
+        points [240]:
+            number = 70.28631743455693 
+            mark = "240" 
+        points [241]:
+            number = 70.39958948410728 
+            mark = "241" 
+        points [242]:
+            number = 70.54508326037165 
+            mark = "242" 
+        points [243]:
+            number = 70.79515101252069 
+            mark = "243" 
+        points [244]:
+            number = 70.864993599805 
+            mark = "244" 
+        points [245]:
+            number = 73.12764560763253 
+            mark = "245" 
+        points [246]:
+            number = 74.51918825906449 
+            mark = "246" 
+        points [247]:
+            number = 74.62343574493052 
+            mark = "247" 
+        points [248]:
+            number = 74.75007270128255 
+            mark = "248" 
+        points [249]:
+            number = 74.80743540562946 
+            mark = "249" 
+        points [250]:
+            number = 75.11247024584279 
+            mark = "250" 
+        points [251]:
+            number = 75.24336961338646 
+            mark = "251" 
+        points [252]:
+            number = 75.41359148934738 
+            mark = "252" 
+        points [253]:
+            number = 75.61350527688145 
+            mark = "253" 
+        points [254]:
+            number = 75.85300595476077 
+            mark = "254" 
+        points [255]:
+            number = 76.03629099357546 
+            mark = "255" 
+        points [256]:
+            number = 76.13531435944432 
+            mark = "256" 
+        points [257]:
+            number = 76.31841278764571 
+            mark = "257" 
+        points [258]:
+            number = 76.44388461318862 
+            mark = "258" 
+        points [259]:
+            number = 76.59943080906567 
+            mark = "259" 
+        points [260]:
+            number = 76.83692424345656 
+            mark = "260" 
+        points [261]:
+            number = 76.9393548385752 
+            mark = "261" 
+        points [262]:
+            number = 77.06708617404162 
+            mark = "262" 
+        points [263]:
+            number = 77.1806639982709 
+            mark = "263" 
+        points [264]:
+            number = 77.38014400442738 
+            mark = "264" 
+        points [265]:
+            number = 77.62625276432341 
+            mark = "265" 
+        points [266]:
+            number = 77.72871872225481 
+            mark = "266" 
+        points [267]:
+            number = 77.80992974645794 
+            mark = "267" 
+        points [268]:
+            number = 77.92436053845834 
+            mark = "268" 
+        points [269]:
+            number = 77.98851321367853 
+            mark = "269" 
+        points [270]:
+            number = 79.05422875793043 
+            mark = "270" 
+        points [271]:
+            number = 79.1977693993989 
+            mark = "271" 
+        points [272]:
+            number = 79.3945941535158 
+            mark = "272" 
+        points [273]:
+            number = 79.52501362877175 
+            mark = "273" 
+        points [274]:
+            number = 79.75809172121474 
+            mark = "274" 
+        points [275]:
+            number = 80.42034237430424 
+            mark = "275" 
+        points [276]:
+            number = 80.6084655558963 
+            mark = "276" 
+        points [277]:
+            number = 80.79171286876957 
+            mark = "277" 
+        points [278]:
+            number = 80.93370376565815 
+            mark = "278" 
+        points [279]:
+            number = 81.06259779135557 
+            mark = "279" 
+        points [280]:
+            number = 81.40947087852787 
+            mark = "280" 
+        points [281]:
+            number = 81.64829920579368 
+            mark = "281" 
+        points [282]:
+            number = 81.84552313975871 
+            mark = "282" 
+        points [283]:
+            number = 83.37369131826401 
+            mark = "283" 
+        points [284]:
+            number = 83.52317269115147 
+            mark = "284" 
+        points [285]:
+            number = 83.65406624256961 
+            mark = "285" 
+        points [286]:
+            number = 83.71502526789892 
+            mark = "286" 
+        points [287]:
+            number = 83.78139558874611 
+            mark = "287" 
+        points [288]:
+            number = 84.84843102239195 
+            mark = "288" 
+        points [289]:
+            number = 84.95717294705477 
+            mark = "289" 
+        points [290]:
+            number = 85.17781316249973 
+            mark = "290" 
+        points [291]:
+            number = 85.25076901185435 
+            mark = "291" 
+        points [292]:
+            number = 85.33683755924343 
+            mark = "292" 
+        points [293]:
+            number = 85.41511002781368 
+            mark = "293" 
+        points [294]:
+            number = 85.69850180697178 
+            mark = "294" 
+        points [295]:
+            number = 85.88381978761868 
+            mark = "295" 
+        points [296]:
+            number = 86.00348718657185 
+            mark = "296" 
+        points [297]:
+            number = 86.12610128191893 
+            mark = "297" 
+        points [298]:
+            number = 86.23704481927598 
+            mark = "298" 
+        points [299]:
+            number = 86.3489608974258 
+            mark = "299" 
+        points [300]:
+            number = 86.47982398312814 
+            mark = "300" 
+        points [301]:
+            number = 86.54430990486833 
+            mark = "301" 
+        points [302]:
+            number = 86.68098397423172 
+            mark = "302" 
+        points [303]:
+            number = 86.85219479810249 
+            mark = "303" 
+        points [304]:
+            number = 87.94656152756751 
+            mark = "304" 
+        points [305]:
+            number = 88.20606603048373 
+            mark = "305" 
+        points [306]:
+            number = 88.50427208830956 
+            mark = "306" 
+        points [307]:
+            number = 88.6025890953142 
+            mark = "307" 
+        points [308]:
+            number = 88.78300548870386 
+            mark = "308" 
+        points [309]:
+            number = 89.02313572212573 
+            mark = "309" 
+        points [310]:
+            number = 89.87312738154527 
+            mark = "310" 
+        points [311]:
+            number = 90.10370953157036 
+            mark = "311" 
+        points [312]:
+            number = 90.2840734636177 
+            mark = "312" 
+        points [313]:
+            number = 90.61504903835043 
+            mark = "313" 
+        points [314]:
+            number = 90.93947849792198 
+            mark = "314" 
+        points [315]:
+            number = 91.21175338523162 
+            mark = "315" 
+        points [316]:
+            number = 91.57184152918049 
+            mark = "316" 
+        points [317]:
+            number = 91.79954293610636 
+            mark = "317" 
+        points [318]:
+            number = 91.96664207863348 
+            mark = "318" 
+        points [319]:
+            number = 92.1087387853411 
+            mark = "319" 
+        points [320]:
+            number = 92.24046042601488 
+            mark = "320" 
+        points [321]:
+            number = 92.43083012552337 
+            mark = "321" 
+        points [322]:
+            number = 92.67829805999597 
+            mark = "322" 
+        points [323]:
+            number = 92.74846216206285 
+            mark = "323" 
+        points [324]:
+            number = 92.93047250285856 
+            mark = "324" 
+        points [325]:
+            number = 94.31306776890158 
+            mark = "325" 
+        points [326]:
+            number = 94.6312588809125 
+            mark = "326" 
+        points [327]:
+            number = 94.87911527524857 
+            mark = "327" 
+        points [328]:
+            number = 95.00196009684159 
+            mark = "328" 
+        points [329]:
+            number = 96.62125301174855 
+            mark = "329" 
+        points [330]:
+            number = 96.71651573063433 
+            mark = "330" 
+        points [331]:
+            number = 96.99608778585541 
+            mark = "331" 
+        points [332]:
+            number = 98.22406999224243 
+            mark = "332" 
+        points [333]:
+            number = 98.30504079849183 
+            mark = "333" 
+        points [334]:
+            number = 98.48175666327978 
+            mark = "334" 
+        points [335]:
+            number = 98.74015554781573 
+            mark = "335" 
+        points [336]:
+            number = 98.89781345667977 
+            mark = "336" 
+        points [337]:
+            number = 99.0342091271654 
+            mark = "337" 
+        points [338]:
+            number = 99.21942867185827 
+            mark = "338" 
+        points [339]:
+            number = 99.35875612817716 
+            mark = "339" 
+        points [340]:
+            number = 99.50033691921527 
+            mark = "340" 
+        points [341]:
+            number = 99.64246037526561 
+            mark = "341" 
+        points [342]:
+            number = 99.7124871966204 
+            mark = "342" 
+        points [343]:
+            number = 99.89092966974162 
+            mark = "343" 
+        points [344]:
+            number = 101.29690214082792 
+            mark = "344" 
+        points [345]:
+            number = 102.03750564320693 
+            mark = "345" 
+        points [346]:
+            number = 102.23245078094875 
+            mark = "346" 
+        points [347]:
+            number = 102.36288977294826 
+            mark = "347" 
+        points [348]:
+            number = 102.51852886605049 
+            mark = "348" 
+        points [349]:
+            number = 103.89734839266744 
+            mark = "349" 
+        points [350]:
+            number = 104.1136219430785 
+            mark = "350" 
+        points [351]:
+            number = 104.23203979024917 
+            mark = "351" 
+        points [352]:
+            number = 104.41211223611016 
+            mark = "352" 
+        points [353]:
+            number = 104.61777405103584 
+            mark = "353" 
+        points [354]:
+            number = 105.17355382020968 
+            mark = "354" 
+        points [355]:
+            number = 105.35507808841511 
+            mark = "355" 
+        points [356]:
+            number = 105.4427901474321 
+            mark = "356" 
+        points [357]:
+            number = 105.58439497807882 
+            mark = "357" 
+        points [358]:
+            number = 105.756560367471 
+            mark = "358" 
+        points [359]:
+            number = 105.91440559401029 
+            mark = "359" 
+        points [360]:
+            number = 106.13682352582605 
+            mark = "360" 
+        points [361]:
+            number = 106.36436249956891 
+            mark = "361" 
+        points [362]:
+            number = 106.47644533333114 
+            mark = "362" 
+        points [363]:
+            number = 106.5422519473234 
+            mark = "363" 
+        points [364]:
+            number = 106.65796700871867 
+            mark = "364" 
+        points [365]:
+            number = 108.047552603501 
+            mark = "365" 
+        points [366]:
+            number = 109.24918879868063 
+            mark = "366" 
+        points [367]:
+            number = 109.45709402781473 
+            mark = "367" 
+        points [368]:
+            number = 109.62152744018935 
+            mark = "368" 
+        points [369]:
+            number = 109.90707568260419 
+            mark = "369" 
+        points [370]:
+            number = 110.00728911479271 
+            mark = "370" 
+        points [371]:
+            number = 110.1955569096535 
+            mark = "371" 
+        points [372]:
+            number = 110.44996646675256 
+            mark = "372" 
+        points [373]:
+            number = 110.72226441753735 
+            mark = "373" 
+        points [374]:
+            number = 111.00200240801462 
+            mark = "374" 
+        points [375]:
+            number = 111.09574490786034 
+            mark = "375" 
+        points [376]:
+            number = 112.45976195569978 
+            mark = "376" 
+        points [377]:
+            number = 112.68975970166949 
+            mark = "377" 
+        points [378]:
+            number = 112.92529699463805 
+            mark = "378" 
+        points [379]:
+            number = 113.0784637894039 
+            mark = "379" 
+        points [380]:
+            number = 113.3123630641165 
+            mark = "380" 
+        points [381]:
+            number = 113.45008234269973 
+            mark = "381" 
+        points [382]:
+            number = 113.5162519897551 
+            mark = "382" 
+        points [383]:
+            number = 113.67295619641963 
+            mark = "383" 
+        points [384]:
+            number = 115.79004149403536 
+            mark = "384" 
+        points [385]:
+            number = 116.01727820353051 
+            mark = "385" 
+        points [386]:
+            number = 116.25117753822687 
+            mark = "386" 
+        points [387]:
+            number = 116.49103493350302 
+            mark = "387" 
+        points [388]:
+            number = 116.64274949851807 
+            mark = "388" 
+        points [389]:
+            number = 118.40927242265715 
+            mark = "389" 
+        points [390]:
+            number = 118.52989865643791 
+            mark = "390" 
+        points [391]:
+            number = 118.82804497317876 
+            mark = "391" 
+        points [392]:
+            number = 118.89096473866576 
+            mark = "392" 
+        points [393]:
+            number = 119.0317216036554 
+            mark = "393" 
+        points [394]:
+            number = 119.13388072825134 
+            mark = "394" 
+        points [395]:
+            number = 119.27622108991025 
+            mark = "395" 
+        points [396]:
+            number = 119.46445858565781 
+            mark = "396" 
+        points [397]:
+            number = 119.59032495053349 
+            mark = "397" 
+        points [398]:
+            number = 119.72357246806968 
+            mark = "398" 
+        points [399]:
+            number = 119.92468811567622 
+            mark = "399" 
+        points [400]:
+            number = 120.12544285839296 
+            mark = "400" 
+        points [401]:
+            number = 120.34912734375095 
+            mark = "401" 
+        points [402]:
+            number = 120.48805088044226 
+            mark = "402" 
+        points [403]:
+            number = 120.67119804203692 
+            mark = "403" 
+        points [404]:
+            number = 120.83742680908382 
+            mark = "404" 
+        points [405]:
+            number = 120.9592251249664 
+            mark = "405" 
+        points [406]:
+            number = 121.10954411195125 
+            mark = "406" 
+        points [407]:
+            number = 121.28004958753058 
+            mark = "407" 
+        points [408]:
+            number = 121.41276881320009 
+            mark = "408" 
+        points [409]:
+            number = 121.57919959180732 
+            mark = "409" 
+        points [410]:
+            number = 121.75808071351136 
+            mark = "410" 
+        points [411]:
+            number = 121.97823495652543 
+            mark = "411" 
+        points [412]:
+            number = 124.02900674891958 
+            mark = "412" 
+        points [413]:
+            number = 124.25485087709187 
+            mark = "413" 
+        points [414]:
+            number = 124.44008391808653 
+            mark = "414" 
+        points [415]:
+            number = 124.73981646396528 
+            mark = "415" 
+        points [416]:
+            number = 124.90151477915175 
+            mark = "416" 
+        points [417]:
+            number = 125.15169220896188 
+            mark = "417" 
+        points [418]:
+            number = 126.4712960129055 
+            mark = "418" 
+        points [419]:
+            number = 126.66231120276854 
+            mark = "419" 
+        points [420]:
+            number = 126.98958173238582 
+            mark = "420" 
+        points [421]:
+            number = 127.20829306932673 
+            mark = "421" 
+        points [422]:
+            number = 127.40089626738151 
+            mark = "422" 
+        points [423]:
+            number = 127.62022919060281 
+            mark = "423" 
+        points [424]:
+            number = 127.74409666978032 
+            mark = "424" 
+        points [425]:
+            number = 127.85436733447204 
+            mark = "425" 
+        points [426]:
+            number = 128.07932001128174 
+            mark = "426" 
+        points [427]:
+            number = 128.17907702610196 
+            mark = "427" 
+        points [428]:
+            number = 128.3332786431117 
+            mark = "428" 
+        points [429]:
+            number = 128.5474840138306 
+            mark = "429" 
+        points [430]:
+            number = 128.65981411077166 
+            mark = "430" 
+        points [431]:
+            number = 128.7621254501489 
+            mark = "431" 
+        points [432]:
+            number = 128.91908066412674 
+            mark = "432" 
+        points [433]:
+            number = 129.13841247531565 
+            mark = "433" 
+        points [434]:
+            number = 130.65059278941615 
+            mark = "434" 
+        points [435]:
+            number = 132.3303760918925 
+            mark = "435" 
+        points [436]:
+            number = 132.63949776450278 
+            mark = "436" 
+        points [437]:
+            number = 132.7052838480155 
+            mark = "437" 
+        points [438]:
+            number = 132.84316977853175 
+            mark = "438" 
+        points [439]:
+            number = 133.02954098886696 
+            mark = "439" 
+        points [440]:
+            number = 135.01105524064766 
+            mark = "440" 
+        points [441]:
+            number = 135.33910871815723 
+            mark = "441" 
+        points [442]:
+            number = 135.64701031900302 
+            mark = "442" 
+        points [443]:
+            number = 135.97162110014528 
+            mark = "443" 
+        points [444]:
+            number = 136.11807263814777 
+            mark = "444" 
+        points [445]:
+            number = 136.24599670335564 
+            mark = "445" 
+        points [446]:
+            number = 136.41780852166332 
+            mark = "446" 
+        points [447]:
+            number = 136.57940450913256 
+            mark = "447" 
+        points [448]:
+            number = 137.82756765365136 
+            mark = "448" 
+        points [449]:
+            number = 138.06611530040936 
+            mark = "449" 
+        points [450]:
+            number = 138.21740948010995 
+            mark = "450" 
+        points [451]:
+            number = 138.43245443521855 
+            mark = "451" 
+        points [452]:
+            number = 138.61566061329617 
+            mark = "452" 
+        points [453]:
+            number = 138.73665869213443 
+            mark = "453" 
+        points [454]:
+            number = 138.84198778416996 
+            mark = "454" 
+        points [455]:
+            number = 139.002132608775 
+            mark = "455" 
+        points [456]:
+            number = 139.15042032262363 
+            mark = "456" 
+        points [457]:
+            number = 139.26868060222625 
+            mark = "457" 
+        points [458]:
+            number = 139.3992308145677 
+            mark = "458" 
+        points [459]:
+            number = 139.50630978646754 
+            mark = "459" 
+        points [460]:
+            number = 139.6781739584196 
+            mark = "460" 
+        points [461]:
+            number = 139.83195700048893 
+            mark = "461" 
+        points [462]:
+            number = 140.0452404270421 
+            mark = "462" 
+        points [463]:
+            number = 140.35009153615974 
+            mark = "463" 
+        points [464]:
+            number = 140.51998679028927 
+            mark = "464" 
+        points [465]:
+            number = 141.54790961317667 
+            mark = "465" 
+        points [466]:
+            number = 143.03155143319165 
+            mark = "466" 
+        points [467]:
+            number = 143.21622447514338 
+            mark = "467" 
+        points [468]:
+            number = 143.32601618390217 
+            mark = "468" 
+        points [469]:
+            number = 143.60765605675144 
+            mark = "469" 
+        points [470]:
+            number = 143.88559699056225 
+            mark = "470" 
+        points [471]:
+            number = 144.07257913843702 
+            mark = "471" 
+        points [472]:
+            number = 144.29327058658438 
+            mark = "472" 
+        points [473]:
+            number = 144.42552488894194 
+            mark = "473" 
+        points [474]:
+            number = 144.53459746208267 
+            mark = "474" 
+        points [475]:
+            number = 144.65511402998777 
+            mark = "475" 
+        points [476]:
+            number = 144.73442515854427 
+            mark = "476" 
+        points [477]:
+            number = 144.84382998748086 
+            mark = "477" 
+        points [478]:
+            number = 144.9595830365609 
+            mark = "478" 
+        points [479]:
+            number = 145.0809639716502 
+            mark = "479" 
+        points [480]:
+            number = 145.3078278449888 
+            mark = "480" 
+        points [481]:
+            number = 145.37661553072058 
+            mark = "481" 
+        points [482]:
+            number = 145.65935817392645 
+            mark = "482" 
+        points [483]:
+            number = 145.90258521089206 
+            mark = "483" 
+        points [484]:
+            number = 146.15245568129575 
+            mark = "484" 
+        points [485]:
+            number = 147.35538048090697 
+            mark = "485" 
+        points [486]:
+            number = 147.52759552723532 
+            mark = "486" 
+        points [487]:
+            number = 147.84183758453582 
+            mark = "487" 
+        points [488]:
+            number = 149.47460419679948 
+            mark = "488" 
+        points [489]:
+            number = 149.62969288547112 
+            mark = "489" 
+        points [490]:
+            number = 149.90040094473355 
+            mark = "490" 
+        points [491]:
+            number = 151.43297362156025 
+            mark = "491" 
+        points [492]:
+            number = 151.67214089485282 
+            mark = "492" 
+        points [493]:
+            number = 151.94818417373423 
+            mark = "493" 
+        points [494]:
+            number = 152.1004751436018 
+            mark = "494" 
+        points [495]:
+            number = 152.27951485387644 
+            mark = "495" 
+        points [496]:
+            number = 152.39836855676288 
+            mark = "496" 
+        points [497]:
+            number = 152.54092161900803 
+            mark = "497" 
+        points [498]:
+            number = 152.63840474549463 
+            mark = "498" 
+        points [499]:
+            number = 152.82729658060913 
+            mark = "499" 
+        points [500]:
+            number = 152.93824479282074 
+            mark = "500" 
+        points [501]:
+            number = 155.02732603912932 
+            mark = "501" 
+        points [502]:
+            number = 155.26845457674085 
+            mark = "502" 
+        points [503]:
+            number = 155.46534495342456 
+            mark = "503" 
+        points [504]:
+            number = 155.7008622965979 
+            mark = "504" 
+        points [505]:
+            number = 155.84527276596918 
+            mark = "505" 
+        points [506]:
+            number = 155.9513452668419 
+            mark = "506" 
+        points [507]:
+            number = 156.18753188910114 
+            mark = "507" 
+        points [508]:
+            number = 158.00953627225675 
+            mark = "508" 
+        points [509]:
+            number = 158.26867036734632 
+            mark = "509" 
+        points [510]:
+            number = 158.377893709096 
+            mark = "510" 
+        points [511]:
+            number = 158.85690272384815 
+            mark = "511" 
+        points [512]:
+            number = 158.92284229078717 
+            mark = "512" 
+        points [513]:
+            number = 159.17187902262074 
+            mark = "513" 
+        points [514]:
+            number = 160.68748963364303 
+            mark = "514" 
+        points [515]:
+            number = 161.14276724288905 
+            mark = "515" 
+        points [516]:
+            number = 161.48090103062825 
+            mark = "516" 
+        points [517]:
+            number = 161.58142256915676 
+            mark = "517" 
+        points [518]:
+            number = 161.86944873300527 
+            mark = "518" 
+        points [519]:
+            number = 162.13484601136426 
+            mark = "519" 
+        points [520]:
+            number = 162.3426035842807 
+            mark = "520" 
+        points [521]:
+            number = 162.44489774956747 
+            mark = "521" 
+        points [522]:
+            number = 162.658212543721 
+            mark = "522" 
+        points [523]:
+            number = 162.79521185546932 
+            mark = "523" 
+        points [524]:
+            number = 162.94430809284992 
+            mark = "524" 
+        points [525]:
+            number = 163.0620853426008 
+            mark = "525" 
+        points [526]:
+            number = 163.252398051637 
+            mark = "526" 
+        points [527]:
+            number = 163.32158627971504 
+            mark = "527" 
+        points [528]:
+            number = 163.421108128129 
+            mark = "528" 
+        points [529]:
+            number = 163.70391858017263 
+            mark = "529" 
+        points [530]:
+            number = 164.1686952985044 
+            mark = "530" 
+        points [531]:
+            number = 164.28275181007658 
+            mark = "531" 
+        points [532]:
+            number = 164.35205634864562 
+            mark = "532" 
+        points [533]:
+            number = 164.59053637424648 
+            mark = "533" 
+        points [534]:
+            number = 164.7900951067995 
+            mark = "534" 
+        points [535]:
+            number = 164.94483075433573 
+            mark = "535" 
+        points [536]:
+            number = 165.1269582091099 
+            mark = "536" 
+        points [537]:
+            number = 165.33962648204948 
+            mark = "537" 
+        points [538]:
+            number = 165.45767984720942 
+            mark = "538" 
+        points [539]:
+            number = 165.67681907148608 
+            mark = "539" 
+        points [540]:
+            number = 165.8087052752078 
+            mark = "540" 
+        points [541]:
+            number = 166.0714005883803 
+            mark = "541" 
+        points [542]:
+            number = 166.27452725820766 
+            mark = "542" 
+        points [543]:
+            number = 166.48208854506672 
+            mark = "543" 
+        points [544]:
+            number = 166.66974232750312 
+            mark = "544" 
+        points [545]:
+            number = 166.89268435831502 
+            mark = "545" 
+        points [546]:
+            number = 167.03889625188546 
+            mark = "546" 
+        points [547]:
+            number = 167.17348881890797 
+            mark = "547" 
+        points [548]:
+            number = 167.324938431782 
+            mark = "548" 
+        points [549]:
+            number = 167.83210439207545 
+            mark = "549" 
+        points [550]:
+            number = 167.94605590886073 
+            mark = "550" 
+        points [551]:
+            number = 168.3289397941333 
+            mark = "551" 
+        points [552]:
+            number = 169.72278508553478 
+            mark = "552" 
+        points [553]:
+            number = 169.8937512895643 
+            mark = "553" 
+        points [554]:
+            number = 170.03918928342242 
+            mark = "554" 
+        points [555]:
+            number = 170.21878292527185 
+            mark = "555" 
+        points [556]:
+            number = 170.4599569545627 
+            mark = "556" 
+        points [557]:
+            number = 171.51445042970403 
+            mark = "557" 
+        points [558]:
+            number = 171.6618237523238 
+            mark = "558" 
+        points [559]:
+            number = 174.18388920885386 
+            mark = "559" 
+    item [2]:
+        class = "TextTier" 
+        name = "syllables" 
+        xmin = 0 
+        xmax = 175.241875 
+        points: size = 546 
+        points [1]:
+            number = 3.081068449868897 
+            mark = "1" 
+        points [2]:
+            number = 3.175451031266578 
+            mark = "2" 
+        points [3]:
+            number = 3.2985887003410683 
+            mark = "3" 
+        points [4]:
+            number = 3.842846625690376 
+            mark = "4" 
+        points [5]:
+            number = 3.983140675972882 
+            mark = "5" 
+        points [6]:
+            number = 5.652520633789997 
+            mark = "6" 
+        points [7]:
+            number = 5.765037139512796 
+            mark = "7" 
+        points [8]:
+            number = 7.032626154276247 
+            mark = "8" 
+        points [9]:
+            number = 8.358038051970503 
+            mark = "9" 
+        points [10]:
+            number = 8.477659047630961 
+            mark = "10" 
+        points [11]:
+            number = 8.633849519987823 
+            mark = "11" 
+        points [12]:
+            number = 8.793874905126938 
+            mark = "12" 
+        points [13]:
+            number = 8.866046077973408 
+            mark = "13" 
+        points [14]:
+            number = 8.985980457361865 
+            mark = "14" 
+        points [15]:
+            number = 9.14497668007984 
+            mark = "15" 
+        points [16]:
+            number = 9.68239450467636 
+            mark = "16" 
+        points [17]:
+            number = 9.922847912276673 
+            mark = "17" 
+        points [18]:
+            number = 10.246775274399507 
+            mark = "18" 
+        points [19]:
+            number = 10.400353481711214 
+            mark = "19" 
+        points [20]:
+            number = 11.704782735988793 
+            mark = "20" 
+        points [21]:
+            number = 11.813473306377585 
+            mark = "21" 
+        points [22]:
+            number = 12.437612521136018 
+            mark = "22" 
+        points [23]:
+            number = 12.49387338545154 
+            mark = "23" 
+        points [24]:
+            number = 13.188615470822992 
+            mark = "24" 
+        points [25]:
+            number = 13.3489800206583 
+            mark = "25" 
+        points [26]:
+            number = 13.500492380656969 
+            mark = "26" 
+        points [27]:
+            number = 13.594896358156891 
+            mark = "27" 
+        points [28]:
+            number = 13.678847605203082 
+            mark = "28" 
+        points [29]:
+            number = 13.838563840950705 
+            mark = "29" 
+        points [30]:
+            number = 14.022142017978897 
+            mark = "30" 
+        points [31]:
+            number = 14.123167584465154 
+            mark = "31" 
+        points [32]:
+            number = 14.346726644269609 
+            mark = "32" 
+        points [33]:
+            number = 14.529840937539653 
+            mark = "33" 
+        points [34]:
+            number = 14.829902997699381 
+            mark = "34" 
+        points [35]:
+            number = 15.184334661306735 
+            mark = "35" 
+        points [36]:
+            number = 15.455027385680776 
+            mark = "36" 
+        points [37]:
+            number = 15.718371320603659 
+            mark = "37" 
+        points [38]:
+            number = 15.789438229345649 
+            mark = "38" 
+        points [39]:
+            number = 16.036618282162475 
+            mark = "39" 
+        points [40]:
+            number = 16.15434506213658 
+            mark = "40" 
+        points [41]:
+            number = 16.19723896833615 
+            mark = "41" 
+        points [42]:
+            number = 16.293693994119064 
+            mark = "42" 
+        points [43]:
+            number = 16.487584451858538 
+            mark = "43" 
+        points [44]:
+            number = 16.770482408586393 
+            mark = "44" 
+        points [45]:
+            number = 16.83226446206925 
+            mark = "45" 
+        points [46]:
+            number = 16.941845761357968 
+            mark = "46" 
+        points [47]:
+            number = 17.060061237521644 
+            mark = "47" 
+        points [48]:
+            number = 17.152984640557325 
+            mark = "48" 
+        points [49]:
+            number = 17.24668880114937 
+            mark = "49" 
+        points [50]:
+            number = 17.337649207657027 
+            mark = "50" 
+        points [51]:
+            number = 17.453027506990114 
+            mark = "51" 
+        points [52]:
+            number = 17.568790226136283 
+            mark = "52" 
+        points [53]:
+            number = 17.742457197681308 
+            mark = "53" 
+        points [54]:
+            number = 17.882492689482746 
+            mark = "54" 
+        points [55]:
+            number = 18.162473785448032 
+            mark = "55" 
+        points [56]:
+            number = 18.417887146978348 
+            mark = "56" 
+        points [57]:
+            number = 19.00919371223079 
+            mark = "57" 
+        points [58]:
+            number = 19.21533068146573 
+            mark = "58" 
+        points [59]:
+            number = 19.349593619087223 
+            mark = "59" 
+        points [60]:
+            number = 19.459031823696566 
+            mark = "60" 
+        points [61]:
+            number = 19.70456994102469 
+            mark = "61" 
+        points [62]:
+            number = 19.96519524872937 
+            mark = "62" 
+        points [63]:
+            number = 20.23714598389747 
+            mark = "63" 
+        points [64]:
+            number = 21.934921170154123 
+            mark = "64" 
+        points [65]:
+            number = 23.54804623319197 
+            mark = "65" 
+        points [66]:
+            number = 23.675645850004592 
+            mark = "66" 
+        points [67]:
+            number = 23.848076285014656 
+            mark = "67" 
+        points [68]:
+            number = 23.99911964934908 
+            mark = "68" 
+        points [69]:
+            number = 24.087935535394987 
+            mark = "69" 
+        points [70]:
+            number = 24.24927198019516 
+            mark = "70" 
+        points [71]:
+            number = 24.427680617333206 
+            mark = "71" 
+        points [72]:
+            number = 24.548994358562148 
+            mark = "72" 
+        points [73]:
+            number = 24.760346803505396 
+            mark = "73" 
+        points [74]:
+            number = 24.89305604393577 
+            mark = "74" 
+        points [75]:
+            number = 25.02172730194394 
+            mark = "75" 
+        points [76]:
+            number = 25.241310375761056 
+            mark = "76" 
+        points [77]:
+            number = 25.312739987270536 
+            mark = "77" 
+        points [78]:
+            number = 25.42778689989906 
+            mark = "78" 
+        points [79]:
+            number = 25.668012473050474 
+            mark = "79" 
+        points [80]:
+            number = 25.88569703011177 
+            mark = "80" 
+        points [81]:
+            number = 26.104621958390545 
+            mark = "81" 
+        points [82]:
+            number = 28.508343149335246 
+            mark = "82" 
+        points [83]:
+            number = 28.65547348882371 
+            mark = "83" 
+        points [84]:
+            number = 31.069253886722425 
+            mark = "84" 
+        points [85]:
+            number = 32.841595605827415 
+            mark = "85" 
+        points [86]:
+            number = 33.024011595989755 
+            mark = "86" 
+        points [87]:
+            number = 33.24222007026854 
+            mark = "87" 
+        points [88]:
+            number = 33.430977095808686 
+            mark = "88" 
+        points [89]:
+            number = 33.708662573127576 
+            mark = "89" 
+        points [90]:
+            number = 33.81328513782089 
+            mark = "90" 
+        points [91]:
+            number = 35.34817902289741 
+            mark = "91" 
+        points [92]:
+            number = 35.45132475998041 
+            mark = "92" 
+        points [93]:
+            number = 35.98989251689836 
+            mark = "93" 
+        points [94]:
+            number = 36.17219275673516 
+            mark = "94" 
+        points [95]:
+            number = 36.272049511552595 
+            mark = "95" 
+        points [96]:
+            number = 36.49321612449683 
+            mark = "96" 
+        points [97]:
+            number = 36.64572181381669 
+            mark = "97" 
+        points [98]:
+            number = 36.71950145974156 
+            mark = "98" 
+        points [99]:
+            number = 36.89856368752828 
+            mark = "99" 
+        points [100]:
+            number = 37.08543613839695 
+            mark = "100" 
+        points [101]:
+            number = 37.14496797618517 
+            mark = "101" 
+        points [102]:
+            number = 37.24165988541366 
+            mark = "102" 
+        points [103]:
+            number = 37.461318696658914 
+            mark = "103" 
+        points [104]:
+            number = 37.71692234817511 
+            mark = "104" 
+        points [105]:
+            number = 39.55490300130659 
+            mark = "105" 
+        points [106]:
+            number = 41.1142728788486 
+            mark = "106" 
+        points [107]:
+            number = 41.27523424639819 
+            mark = "107" 
+        points [108]:
+            number = 41.3958272394518 
+            mark = "108" 
+        points [109]:
+            number = 41.57824712786829 
+            mark = "109" 
+        points [110]:
+            number = 41.71324364248303 
+            mark = "110" 
+        points [111]:
+            number = 41.843725870152944 
+            mark = "111" 
+        points [112]:
+            number = 42.02793225637541 
+            mark = "112" 
+        points [113]:
+            number = 42.19538537951003 
+            mark = "113" 
+        points [114]:
+            number = 42.394165756373 
+            mark = "114" 
+        points [115]:
+            number = 42.55485575697747 
+            mark = "115" 
+        points [116]:
+            number = 42.73807674326117 
+            mark = "116" 
+        points [117]:
+            number = 42.91605255705348 
+            mark = "117" 
+        points [118]:
+            number = 43.102048105338895 
+            mark = "118" 
+        points [119]:
+            number = 43.248572234633116 
+            mark = "119" 
+        points [120]:
+            number = 43.48813983359186 
+            mark = "120" 
+        points [121]:
+            number = 43.54486931359966 
+            mark = "121" 
+        points [122]:
+            number = 43.97738178074527 
+            mark = "122" 
+        points [123]:
+            number = 44.14741285948088 
+            mark = "123" 
+        points [124]:
+            number = 44.391183832981056 
+            mark = "124" 
+        points [125]:
+            number = 44.57731850284665 
+            mark = "125" 
+        points [126]:
+            number = 44.71515069651894 
+            mark = "126" 
+        points [127]:
+            number = 44.90316262410857 
+            mark = "127" 
+        points [128]:
+            number = 45.01022514590866 
+            mark = "128" 
+        points [129]:
+            number = 45.070211746670566 
+            mark = "129" 
+        points [130]:
+            number = 45.177671586086454 
+            mark = "130" 
+        points [131]:
+            number = 45.301079708514436 
+            mark = "131" 
+        points [132]:
+            number = 45.3755639834843 
+            mark = "132" 
+        points [133]:
+            number = 45.56573009470743 
+            mark = "133" 
+        points [134]:
+            number = 45.66214626431473 
+            mark = "134" 
+        points [135]:
+            number = 45.80014762649961 
+            mark = "135" 
+        points [136]:
+            number = 45.95197555316874 
+            mark = "136" 
+        points [137]:
+            number = 46.137285120872114 
+            mark = "137" 
+        points [138]:
+            number = 46.26766144785643 
+            mark = "138" 
+        points [139]:
+            number = 46.66364990402055 
+            mark = "139" 
+        points [140]:
+            number = 46.77670384380083 
+            mark = "140" 
+        points [141]:
+            number = 46.848296078292314 
+            mark = "141" 
+        points [142]:
+            number = 46.91272830144914 
+            mark = "142" 
+        points [143]:
+            number = 47.07828532166523 
+            mark = "143" 
+        points [144]:
+            number = 47.282979561321305 
+            mark = "144" 
+        points [145]:
+            number = 47.436960491066344 
+            mark = "145" 
+        points [146]:
+            number = 47.537274643566406 
+            mark = "146" 
+        points [147]:
+            number = 49.4503492689784 
+            mark = "147" 
+        points [148]:
+            number = 51.359338100726106 
+            mark = "148" 
+        points [149]:
+            number = 51.66716888396039 
+            mark = "149" 
+        points [150]:
+            number = 51.82152535461355 
+            mark = "150" 
+        points [151]:
+            number = 51.875838509050006 
+            mark = "151" 
+        points [152]:
+            number = 51.990368205320586 
+            mark = "152" 
+        points [153]:
+            number = 52.23828159601711 
+            mark = "153" 
+        points [154]:
+            number = 52.38848605593402 
+            mark = "154" 
+        points [155]:
+            number = 52.498969056839556 
+            mark = "155" 
+        points [156]:
+            number = 52.59501053552972 
+            mark = "156" 
+        points [157]:
+            number = 52.69610815945243 
+            mark = "157" 
+        points [158]:
+            number = 52.82656483188139 
+            mark = "158" 
+        points [159]:
+            number = 53.01648098769775 
+            mark = "159" 
+        points [160]:
+            number = 53.085936064035764 
+            mark = "160" 
+        points [161]:
+            number = 53.18150672532733 
+            mark = "161" 
+        points [162]:
+            number = 53.30813777523548 
+            mark = "162" 
+        points [163]:
+            number = 53.58622227333609 
+            mark = "163" 
+        points [164]:
+            number = 53.63952806975023 
+            mark = "164" 
+        points [165]:
+            number = 53.75343954284445 
+            mark = "165" 
+        points [166]:
+            number = 53.87111587262026 
+            mark = "166" 
+        points [167]:
+            number = 53.95783510266044 
+            mark = "167" 
+        points [168]:
+            number = 54.17436879131075 
+            mark = "168" 
+        points [169]:
+            number = 54.311611372799625 
+            mark = "169" 
+        points [170]:
+            number = 54.506226094372394 
+            mark = "170" 
+        points [171]:
+            number = 54.60025474048748 
+            mark = "171" 
+        points [172]:
+            number = 54.823455646620395 
+            mark = "172" 
+        points [173]:
+            number = 55.1132712597843 
+            mark = "173" 
+        points [174]:
+            number = 55.69685202869935 
+            mark = "174" 
+        points [175]:
+            number = 55.80174984492037 
+            mark = "175" 
+        points [176]:
+            number = 56.02168576134974 
+            mark = "176" 
+        points [177]:
+            number = 56.263073296023734 
+            mark = "177" 
+        points [178]:
+            number = 56.52196782063584 
+            mark = "178" 
+        points [179]:
+            number = 56.8059284296113 
+            mark = "179" 
+        points [180]:
+            number = 57.02816231995171 
+            mark = "180" 
+        points [181]:
+            number = 57.13877139131917 
+            mark = "181" 
+        points [182]:
+            number = 57.24180342681326 
+            mark = "182" 
+        points [183]:
+            number = 57.33955996337538 
+            mark = "183" 
+        points [184]:
+            number = 57.444167020343826 
+            mark = "184" 
+        points [185]:
+            number = 57.55788676496547 
+            mark = "185" 
+        points [186]:
+            number = 57.73240214036777 
+            mark = "186" 
+        points [187]:
+            number = 57.887391945757486 
+            mark = "187" 
+        points [188]:
+            number = 58.050254026881916 
+            mark = "188" 
+        points [189]:
+            number = 58.300702636899096 
+            mark = "189" 
+        points [190]:
+            number = 58.57861399297367 
+            mark = "190" 
+        points [191]:
+            number = 58.891825835356045 
+            mark = "191" 
+        points [192]:
+            number = 59.670556534075224 
+            mark = "192" 
+        points [193]:
+            number = 59.73997750703505 
+            mark = "193" 
+        points [194]:
+            number = 59.887938558007306 
+            mark = "194" 
+        points [195]:
+            number = 60.10264903877474 
+            mark = "195" 
+        points [196]:
+            number = 60.23168448011984 
+            mark = "196" 
+        points [197]:
+            number = 60.33652215262903 
+            mark = "197" 
+        points [198]:
+            number = 60.47218314779727 
+            mark = "198" 
+        points [199]:
+            number = 60.70445058415773 
+            mark = "199" 
+        points [200]:
+            number = 61.03251680918892 
+            mark = "200" 
+        points [201]:
+            number = 61.24162800663689 
+            mark = "201" 
+        points [202]:
+            number = 61.30865587832117 
+            mark = "202" 
+        points [203]:
+            number = 61.46476946090425 
+            mark = "203" 
+        points [204]:
+            number = 61.57192706942956 
+            mark = "204" 
+        points [205]:
+            number = 61.730977434094896 
+            mark = "205" 
+        points [206]:
+            number = 61.83525376516082 
+            mark = "206" 
+        points [207]:
+            number = 62.08281065576038 
+            mark = "207" 
+        points [208]:
+            number = 62.14763443884774 
+            mark = "208" 
+        points [209]:
+            number = 62.377070382384396 
+            mark = "209" 
+        points [210]:
+            number = 62.47460399229844 
+            mark = "210" 
+        points [211]:
+            number = 62.68803292642582 
+            mark = "211" 
+        points [212]:
+            number = 62.916861536927875 
+            mark = "212" 
+        points [213]:
+            number = 64.5901507029699 
+            mark = "213" 
+        points [214]:
+            number = 65.84563624468416 
+            mark = "214" 
+        points [215]:
+            number = 66.03481893654309 
+            mark = "215" 
+        points [216]:
+            number = 66.8010904395853 
+            mark = "216" 
+        points [217]:
+            number = 67.04175555110805 
+            mark = "217" 
+        points [218]:
+            number = 67.17532636368996 
+            mark = "218" 
+        points [219]:
+            number = 67.28599427001278 
+            mark = "219" 
+        points [220]:
+            number = 67.43800474428716 
+            mark = "220" 
+        points [221]:
+            number = 67.61604059384307 
+            mark = "221" 
+        points [222]:
+            number = 67.7681318810416 
+            mark = "222" 
+        points [223]:
+            number = 68.06188421606724 
+            mark = "223" 
+        points [224]:
+            number = 68.1845681187737 
+            mark = "224" 
+        points [225]:
+            number = 68.40306813872714 
+            mark = "225" 
+        points [226]:
+            number = 68.52686613101392 
+            mark = "226" 
+        points [227]:
+            number = 68.68355681857574 
+            mark = "227" 
+        points [228]:
+            number = 68.86984351673385 
+            mark = "228" 
+        points [229]:
+            number = 69.04312649973481 
+            mark = "229" 
+        points [230]:
+            number = 69.20739060176071 
+            mark = "230" 
+        points [231]:
+            number = 69.41838459695947 
+            mark = "231" 
+        points [232]:
+            number = 69.55133279110811 
+            mark = "232" 
+        points [233]:
+            number = 69.70791435224697 
+            mark = "233" 
+        points [234]:
+            number = 69.83394819284618 
+            mark = "234" 
+        points [235]:
+            number = 69.93640102813558 
+            mark = "235" 
+        points [236]:
+            number = 70.00095312427983 
+            mark = "236" 
+        points [237]:
+            number = 70.28631743455693 
+            mark = "237" 
+        points [238]:
+            number = 70.39958948410728 
+            mark = "238" 
+        points [239]:
+            number = 70.54508326037165 
+            mark = "239" 
+        points [240]:
+            number = 70.79515101252069 
+            mark = "240" 
+        points [241]:
+            number = 70.864993599805 
+            mark = "241" 
+        points [242]:
+            number = 73.12764560763253 
+            mark = "242" 
+        points [243]:
+            number = 74.51918825906449 
+            mark = "243" 
+        points [244]:
+            number = 74.62343574493052 
+            mark = "244" 
+        points [245]:
+            number = 74.75007270128255 
+            mark = "245" 
+        points [246]:
+            number = 74.80743540562946 
+            mark = "246" 
+        points [247]:
+            number = 75.11247024584279 
+            mark = "247" 
+        points [248]:
+            number = 75.24336961338646 
+            mark = "248" 
+        points [249]:
+            number = 75.41359148934738 
+            mark = "249" 
+        points [250]:
+            number = 75.61350527688145 
+            mark = "250" 
+        points [251]:
+            number = 75.85300595476077 
+            mark = "251" 
+        points [252]:
+            number = 76.03629099357546 
+            mark = "252" 
+        points [253]:
+            number = 76.13531435944432 
+            mark = "253" 
+        points [254]:
+            number = 76.31841278764571 
+            mark = "254" 
+        points [255]:
+            number = 76.44388461318862 
+            mark = "255" 
+        points [256]:
+            number = 76.59943080906567 
+            mark = "256" 
+        points [257]:
+            number = 76.83692424345656 
+            mark = "257" 
+        points [258]:
+            number = 76.9393548385752 
+            mark = "258" 
+        points [259]:
+            number = 77.06708617404162 
+            mark = "259" 
+        points [260]:
+            number = 77.1806639982709 
+            mark = "260" 
+        points [261]:
+            number = 77.38014400442738 
+            mark = "261" 
+        points [262]:
+            number = 77.62625276432341 
+            mark = "262" 
+        points [263]:
+            number = 77.72871872225481 
+            mark = "263" 
+        points [264]:
+            number = 77.80992974645794 
+            mark = "264" 
+        points [265]:
+            number = 77.92436053845834 
+            mark = "265" 
+        points [266]:
+            number = 77.98851321367853 
+            mark = "266" 
+        points [267]:
+            number = 79.05422875793043 
+            mark = "267" 
+        points [268]:
+            number = 79.1977693993989 
+            mark = "268" 
+        points [269]:
+            number = 79.3945941535158 
+            mark = "269" 
+        points [270]:
+            number = 79.52501362877175 
+            mark = "270" 
+        points [271]:
+            number = 80.42034237430424 
+            mark = "271" 
+        points [272]:
+            number = 80.6084655558963 
+            mark = "272" 
+        points [273]:
+            number = 80.79171286876957 
+            mark = "273" 
+        points [274]:
+            number = 80.93370376565815 
+            mark = "274" 
+        points [275]:
+            number = 81.06259779135557 
+            mark = "275" 
+        points [276]:
+            number = 81.40947087852787 
+            mark = "276" 
+        points [277]:
+            number = 81.64829920579368 
+            mark = "277" 
+        points [278]:
+            number = 81.84552313975871 
+            mark = "278" 
+        points [279]:
+            number = 83.37369131826401 
+            mark = "279" 
+        points [280]:
+            number = 83.52317269115147 
+            mark = "280" 
+        points [281]:
+            number = 83.65406624256961 
+            mark = "281" 
+        points [282]:
+            number = 83.71502526789892 
+            mark = "282" 
+        points [283]:
+            number = 83.78139558874611 
+            mark = "283" 
+        points [284]:
+            number = 84.84843102239195 
+            mark = "284" 
+        points [285]:
+            number = 84.95717294705477 
+            mark = "285" 
+        points [286]:
+            number = 85.17781316249973 
+            mark = "286" 
+        points [287]:
+            number = 85.25076901185435 
+            mark = "287" 
+        points [288]:
+            number = 85.33683755924343 
+            mark = "288" 
+        points [289]:
+            number = 85.41511002781368 
+            mark = "289" 
+        points [290]:
+            number = 85.69850180697178 
+            mark = "290" 
+        points [291]:
+            number = 85.88381978761868 
+            mark = "291" 
+        points [292]:
+            number = 86.00348718657185 
+            mark = "292" 
+        points [293]:
+            number = 86.12610128191893 
+            mark = "293" 
+        points [294]:
+            number = 86.23704481927598 
+            mark = "294" 
+        points [295]:
+            number = 86.3489608974258 
+            mark = "295" 
+        points [296]:
+            number = 86.47982398312814 
+            mark = "296" 
+        points [297]:
+            number = 86.54430990486833 
+            mark = "297" 
+        points [298]:
+            number = 86.68098397423172 
+            mark = "298" 
+        points [299]:
+            number = 86.85219479810249 
+            mark = "299" 
+        points [300]:
+            number = 87.94656152756751 
+            mark = "300" 
+        points [301]:
+            number = 88.20606603048373 
+            mark = "301" 
+        points [302]:
+            number = 88.50427208830956 
+            mark = "302" 
+        points [303]:
+            number = 88.6025890953142 
+            mark = "303" 
+        points [304]:
+            number = 88.78300548870386 
+            mark = "304" 
+        points [305]:
+            number = 89.87312738154527 
+            mark = "305" 
+        points [306]:
+            number = 90.10370953157036 
+            mark = "306" 
+        points [307]:
+            number = 90.2840734636177 
+            mark = "307" 
+        points [308]:
+            number = 90.61504903835043 
+            mark = "308" 
+        points [309]:
+            number = 90.93947849792198 
+            mark = "309" 
+        points [310]:
+            number = 91.21175338523162 
+            mark = "310" 
+        points [311]:
+            number = 91.57184152918049 
+            mark = "311" 
+        points [312]:
+            number = 91.79954293610636 
+            mark = "312" 
+        points [313]:
+            number = 91.96664207863348 
+            mark = "313" 
+        points [314]:
+            number = 92.1087387853411 
+            mark = "314" 
+        points [315]:
+            number = 92.24046042601488 
+            mark = "315" 
+        points [316]:
+            number = 92.43083012552337 
+            mark = "316" 
+        points [317]:
+            number = 92.67829805999597 
+            mark = "317" 
+        points [318]:
+            number = 92.74846216206285 
+            mark = "318" 
+        points [319]:
+            number = 92.93047250285856 
+            mark = "319" 
+        points [320]:
+            number = 94.31306776890158 
+            mark = "320" 
+        points [321]:
+            number = 94.6312588809125 
+            mark = "321" 
+        points [322]:
+            number = 94.87911527524857 
+            mark = "322" 
+        points [323]:
+            number = 95.00196009684159 
+            mark = "323" 
+        points [324]:
+            number = 96.62125301174855 
+            mark = "324" 
+        points [325]:
+            number = 96.71651573063433 
+            mark = "325" 
+        points [326]:
+            number = 96.99608778585541 
+            mark = "326" 
+        points [327]:
+            number = 98.22406999224243 
+            mark = "327" 
+        points [328]:
+            number = 98.30504079849183 
+            mark = "328" 
+        points [329]:
+            number = 98.48175666327978 
+            mark = "329" 
+        points [330]:
+            number = 98.74015554781573 
+            mark = "330" 
+        points [331]:
+            number = 98.89781345667977 
+            mark = "331" 
+        points [332]:
+            number = 99.0342091271654 
+            mark = "332" 
+        points [333]:
+            number = 99.50033691921527 
+            mark = "333" 
+        points [334]:
+            number = 99.64246037526561 
+            mark = "334" 
+        points [335]:
+            number = 99.7124871966204 
+            mark = "335" 
+        points [336]:
+            number = 99.89092966974162 
+            mark = "336" 
+        points [337]:
+            number = 101.29690214082792 
+            mark = "337" 
+        points [338]:
+            number = 102.03750564320693 
+            mark = "338" 
+        points [339]:
+            number = 102.23245078094875 
+            mark = "339" 
+        points [340]:
+            number = 102.36288977294826 
+            mark = "340" 
+        points [341]:
+            number = 102.51852886605049 
+            mark = "341" 
+        points [342]:
+            number = 103.89734839266744 
+            mark = "342" 
+        points [343]:
+            number = 104.1136219430785 
+            mark = "343" 
+        points [344]:
+            number = 104.23203979024917 
+            mark = "344" 
+        points [345]:
+            number = 104.41211223611016 
+            mark = "345" 
+        points [346]:
+            number = 104.61777405103584 
+            mark = "346" 
+        points [347]:
+            number = 105.35507808841511 
+            mark = "347" 
+        points [348]:
+            number = 105.4427901474321 
+            mark = "348" 
+        points [349]:
+            number = 105.58439497807882 
+            mark = "349" 
+        points [350]:
+            number = 105.756560367471 
+            mark = "350" 
+        points [351]:
+            number = 105.91440559401029 
+            mark = "351" 
+        points [352]:
+            number = 106.13682352582605 
+            mark = "352" 
+        points [353]:
+            number = 106.36436249956891 
+            mark = "353" 
+        points [354]:
+            number = 106.47644533333114 
+            mark = "354" 
+        points [355]:
+            number = 106.5422519473234 
+            mark = "355" 
+        points [356]:
+            number = 106.65796700871867 
+            mark = "356" 
+        points [357]:
+            number = 108.047552603501 
+            mark = "357" 
+        points [358]:
+            number = 109.24918879868063 
+            mark = "358" 
+        points [359]:
+            number = 109.45709402781473 
+            mark = "359" 
+        points [360]:
+            number = 109.62152744018935 
+            mark = "360" 
+        points [361]:
+            number = 109.90707568260419 
+            mark = "361" 
+        points [362]:
+            number = 110.00728911479271 
+            mark = "362" 
+        points [363]:
+            number = 110.1955569096535 
+            mark = "363" 
+        points [364]:
+            number = 110.44996646675256 
+            mark = "364" 
+        points [365]:
+            number = 110.72226441753735 
+            mark = "365" 
+        points [366]:
+            number = 111.00200240801462 
+            mark = "366" 
+        points [367]:
+            number = 111.09574490786034 
+            mark = "367" 
+        points [368]:
+            number = 112.45976195569978 
+            mark = "368" 
+        points [369]:
+            number = 112.68975970166949 
+            mark = "369" 
+        points [370]:
+            number = 112.92529699463805 
+            mark = "370" 
+        points [371]:
+            number = 113.0784637894039 
+            mark = "371" 
+        points [372]:
+            number = 113.3123630641165 
+            mark = "372" 
+        points [373]:
+            number = 113.45008234269973 
+            mark = "373" 
+        points [374]:
+            number = 113.5162519897551 
+            mark = "374" 
+        points [375]:
+            number = 113.67295619641963 
+            mark = "375" 
+        points [376]:
+            number = 115.79004149403536 
+            mark = "376" 
+        points [377]:
+            number = 116.01727820353051 
+            mark = "377" 
+        points [378]:
+            number = 116.25117753822687 
+            mark = "378" 
+        points [379]:
+            number = 116.49103493350302 
+            mark = "379" 
+        points [380]:
+            number = 116.64274949851807 
+            mark = "380" 
+        points [381]:
+            number = 118.40927242265715 
+            mark = "381" 
+        points [382]:
+            number = 118.52989865643791 
+            mark = "382" 
+        points [383]:
+            number = 118.82804497317876 
+            mark = "383" 
+        points [384]:
+            number = 118.89096473866576 
+            mark = "384" 
+        points [385]:
+            number = 119.0317216036554 
+            mark = "385" 
+        points [386]:
+            number = 119.13388072825134 
+            mark = "386" 
+        points [387]:
+            number = 119.27622108991025 
+            mark = "387" 
+        points [388]:
+            number = 119.72357246806968 
+            mark = "388" 
+        points [389]:
+            number = 119.92468811567622 
+            mark = "389" 
+        points [390]:
+            number = 120.12544285839296 
+            mark = "390" 
+        points [391]:
+            number = 120.34912734375095 
+            mark = "391" 
+        points [392]:
+            number = 120.48805088044226 
+            mark = "392" 
+        points [393]:
+            number = 120.67119804203692 
+            mark = "393" 
+        points [394]:
+            number = 120.83742680908382 
+            mark = "394" 
+        points [395]:
+            number = 120.9592251249664 
+            mark = "395" 
+        points [396]:
+            number = 121.10954411195125 
+            mark = "396" 
+        points [397]:
+            number = 121.28004958753058 
+            mark = "397" 
+        points [398]:
+            number = 121.41276881320009 
+            mark = "398" 
+        points [399]:
+            number = 121.57919959180732 
+            mark = "399" 
+        points [400]:
+            number = 121.75808071351136 
+            mark = "400" 
+        points [401]:
+            number = 121.97823495652543 
+            mark = "401" 
+        points [402]:
+            number = 124.02900674891958 
+            mark = "402" 
+        points [403]:
+            number = 124.25485087709187 
+            mark = "403" 
+        points [404]:
+            number = 124.44008391808653 
+            mark = "404" 
+        points [405]:
+            number = 124.73981646396528 
+            mark = "405" 
+        points [406]:
+            number = 124.90151477915175 
+            mark = "406" 
+        points [407]:
+            number = 125.15169220896188 
+            mark = "407" 
+        points [408]:
+            number = 126.4712960129055 
+            mark = "408" 
+        points [409]:
+            number = 126.66231120276854 
+            mark = "409" 
+        points [410]:
+            number = 126.98958173238582 
+            mark = "410" 
+        points [411]:
+            number = 127.20829306932673 
+            mark = "411" 
+        points [412]:
+            number = 127.40089626738151 
+            mark = "412" 
+        points [413]:
+            number = 127.62022919060281 
+            mark = "413" 
+        points [414]:
+            number = 127.74409666978032 
+            mark = "414" 
+        points [415]:
+            number = 127.85436733447204 
+            mark = "415" 
+        points [416]:
+            number = 128.07932001128174 
+            mark = "416" 
+        points [417]:
+            number = 128.17907702610196 
+            mark = "417" 
+        points [418]:
+            number = 128.3332786431117 
+            mark = "418" 
+        points [419]:
+            number = 128.5474840138306 
+            mark = "419" 
+        points [420]:
+            number = 128.65981411077166 
+            mark = "420" 
+        points [421]:
+            number = 128.7621254501489 
+            mark = "421" 
+        points [422]:
+            number = 128.91908066412674 
+            mark = "422" 
+        points [423]:
+            number = 129.13841247531565 
+            mark = "423" 
+        points [424]:
+            number = 130.65059278941615 
+            mark = "424" 
+        points [425]:
+            number = 132.3303760918925 
+            mark = "425" 
+        points [426]:
+            number = 132.63949776450278 
+            mark = "426" 
+        points [427]:
+            number = 132.7052838480155 
+            mark = "427" 
+        points [428]:
+            number = 132.84316977853175 
+            mark = "428" 
+        points [429]:
+            number = 133.02954098886696 
+            mark = "429" 
+        points [430]:
+            number = 135.01105524064766 
+            mark = "430" 
+        points [431]:
+            number = 135.33910871815723 
+            mark = "431" 
+        points [432]:
+            number = 135.64701031900302 
+            mark = "432" 
+        points [433]:
+            number = 135.97162110014528 
+            mark = "433" 
+        points [434]:
+            number = 136.11807263814777 
+            mark = "434" 
+        points [435]:
+            number = 136.24599670335564 
+            mark = "435" 
+        points [436]:
+            number = 136.41780852166332 
+            mark = "436" 
+        points [437]:
+            number = 136.57940450913256 
+            mark = "437" 
+        points [438]:
+            number = 137.82756765365136 
+            mark = "438" 
+        points [439]:
+            number = 138.06611530040936 
+            mark = "439" 
+        points [440]:
+            number = 138.21740948010995 
+            mark = "440" 
+        points [441]:
+            number = 138.43245443521855 
+            mark = "441" 
+        points [442]:
+            number = 138.61566061329617 
+            mark = "442" 
+        points [443]:
+            number = 138.73665869213443 
+            mark = "443" 
+        points [444]:
+            number = 138.84198778416996 
+            mark = "444" 
+        points [445]:
+            number = 139.002132608775 
+            mark = "445" 
+        points [446]:
+            number = 139.15042032262363 
+            mark = "446" 
+        points [447]:
+            number = 139.26868060222625 
+            mark = "447" 
+        points [448]:
+            number = 139.3992308145677 
+            mark = "448" 
+        points [449]:
+            number = 139.50630978646754 
+            mark = "449" 
+        points [450]:
+            number = 139.6781739584196 
+            mark = "450" 
+        points [451]:
+            number = 139.83195700048893 
+            mark = "451" 
+        points [452]:
+            number = 140.0452404270421 
+            mark = "452" 
+        points [453]:
+            number = 140.35009153615974 
+            mark = "453" 
+        points [454]:
+            number = 140.51998679028927 
+            mark = "454" 
+        points [455]:
+            number = 141.54790961317667 
+            mark = "455" 
+        points [456]:
+            number = 143.03155143319165 
+            mark = "456" 
+        points [457]:
+            number = 143.21622447514338 
+            mark = "457" 
+        points [458]:
+            number = 143.32601618390217 
+            mark = "458" 
+        points [459]:
+            number = 143.60765605675144 
+            mark = "459" 
+        points [460]:
+            number = 143.88559699056225 
+            mark = "460" 
+        points [461]:
+            number = 144.07257913843702 
+            mark = "461" 
+        points [462]:
+            number = 144.29327058658438 
+            mark = "462" 
+        points [463]:
+            number = 144.42552488894194 
+            mark = "463" 
+        points [464]:
+            number = 144.53459746208267 
+            mark = "464" 
+        points [465]:
+            number = 144.65511402998777 
+            mark = "465" 
+        points [466]:
+            number = 144.73442515854427 
+            mark = "466" 
+        points [467]:
+            number = 144.84382998748086 
+            mark = "467" 
+        points [468]:
+            number = 144.9595830365609 
+            mark = "468" 
+        points [469]:
+            number = 145.0809639716502 
+            mark = "469" 
+        points [470]:
+            number = 145.3078278449888 
+            mark = "470" 
+        points [471]:
+            number = 145.37661553072058 
+            mark = "471" 
+        points [472]:
+            number = 145.65935817392645 
+            mark = "472" 
+        points [473]:
+            number = 145.90258521089206 
+            mark = "473" 
+        points [474]:
+            number = 146.15245568129575 
+            mark = "474" 
+        points [475]:
+            number = 147.35538048090697 
+            mark = "475" 
+        points [476]:
+            number = 147.52759552723532 
+            mark = "476" 
+        points [477]:
+            number = 147.84183758453582 
+            mark = "477" 
+        points [478]:
+            number = 149.47460419679948 
+            mark = "478" 
+        points [479]:
+            number = 149.62969288547112 
+            mark = "479" 
+        points [480]:
+            number = 149.90040094473355 
+            mark = "480" 
+        points [481]:
+            number = 151.43297362156025 
+            mark = "481" 
+        points [482]:
+            number = 151.67214089485282 
+            mark = "482" 
+        points [483]:
+            number = 151.94818417373423 
+            mark = "483" 
+        points [484]:
+            number = 152.1004751436018 
+            mark = "484" 
+        points [485]:
+            number = 152.27951485387644 
+            mark = "485" 
+        points [486]:
+            number = 152.39836855676288 
+            mark = "486" 
+        points [487]:
+            number = 152.54092161900803 
+            mark = "487" 
+        points [488]:
+            number = 152.63840474549463 
+            mark = "488" 
+        points [489]:
+            number = 152.82729658060913 
+            mark = "489" 
+        points [490]:
+            number = 152.93824479282074 
+            mark = "490" 
+        points [491]:
+            number = 155.02732603912932 
+            mark = "491" 
+        points [492]:
+            number = 155.26845457674085 
+            mark = "492" 
+        points [493]:
+            number = 155.46534495342456 
+            mark = "493" 
+        points [494]:
+            number = 155.7008622965979 
+            mark = "494" 
+        points [495]:
+            number = 155.84527276596918 
+            mark = "495" 
+        points [496]:
+            number = 155.9513452668419 
+            mark = "496" 
+        points [497]:
+            number = 156.18753188910114 
+            mark = "497" 
+        points [498]:
+            number = 158.00953627225675 
+            mark = "498" 
+        points [499]:
+            number = 158.26867036734632 
+            mark = "499" 
+        points [500]:
+            number = 158.377893709096 
+            mark = "500" 
+        points [501]:
+            number = 158.85690272384815 
+            mark = "501" 
+        points [502]:
+            number = 158.92284229078717 
+            mark = "502" 
+        points [503]:
+            number = 159.17187902262074 
+            mark = "503" 
+        points [504]:
+            number = 160.68748963364303 
+            mark = "504" 
+        points [505]:
+            number = 161.14276724288905 
+            mark = "505" 
+        points [506]:
+            number = 161.48090103062825 
+            mark = "506" 
+        points [507]:
+            number = 161.58142256915676 
+            mark = "507" 
+        points [508]:
+            number = 161.86944873300527 
+            mark = "508" 
+        points [509]:
+            number = 162.13484601136426 
+            mark = "509" 
+        points [510]:
+            number = 162.3426035842807 
+            mark = "510" 
+        points [511]:
+            number = 162.44489774956747 
+            mark = "511" 
+        points [512]:
+            number = 162.658212543721 
+            mark = "512" 
+        points [513]:
+            number = 162.79521185546932 
+            mark = "513" 
+        points [514]:
+            number = 162.94430809284992 
+            mark = "514" 
+        points [515]:
+            number = 163.0620853426008 
+            mark = "515" 
+        points [516]:
+            number = 163.252398051637 
+            mark = "516" 
+        points [517]:
+            number = 163.32158627971504 
+            mark = "517" 
+        points [518]:
+            number = 163.421108128129 
+            mark = "518" 
+        points [519]:
+            number = 163.70391858017263 
+            mark = "519" 
+        points [520]:
+            number = 164.1686952985044 
+            mark = "520" 
+        points [521]:
+            number = 164.28275181007658 
+            mark = "521" 
+        points [522]:
+            number = 164.35205634864562 
+            mark = "522" 
+        points [523]:
+            number = 164.59053637424648 
+            mark = "523" 
+        points [524]:
+            number = 164.7900951067995 
+            mark = "524" 
+        points [525]:
+            number = 164.94483075433573 
+            mark = "525" 
+        points [526]:
+            number = 165.1269582091099 
+            mark = "526" 
+        points [527]:
+            number = 165.33962648204948 
+            mark = "527" 
+        points [528]:
+            number = 165.45767984720942 
+            mark = "528" 
+        points [529]:
+            number = 165.67681907148608 
+            mark = "529" 
+        points [530]:
+            number = 165.8087052752078 
+            mark = "530" 
+        points [531]:
+            number = 166.0714005883803 
+            mark = "531" 
+        points [532]:
+            number = 166.27452725820766 
+            mark = "532" 
+        points [533]:
+            number = 166.48208854506672 
+            mark = "533" 
+        points [534]:
+            number = 166.66974232750312 
+            mark = "534" 
+        points [535]:
+            number = 166.89268435831502 
+            mark = "535" 
+        points [536]:
+            number = 167.83210439207545 
+            mark = "536" 
+        points [537]:
+            number = 167.94605590886073 
+            mark = "537" 
+        points [538]:
+            number = 168.3289397941333 
+            mark = "538" 
+        points [539]:
+            number = 169.72278508553478 
+            mark = "539" 
+        points [540]:
+            number = 169.8937512895643 
+            mark = "540" 
+        points [541]:
+            number = 170.03918928342242 
+            mark = "541" 
+        points [542]:
+            number = 170.21878292527185 
+            mark = "542" 
+        points [543]:
+            number = 170.4599569545627 
+            mark = "543" 
+        points [544]:
+            number = 171.51445042970403 
+            mark = "544" 
+        points [545]:
+            number = 171.6618237523238 
+            mark = "545" 
+        points [546]:
+            number = 174.18388920885386 
+            mark = "546" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "silences" 
+        xmin = 0 
+        xmax = 175.241875 
+        intervals: size = 137 
+        intervals [1]:
+            xmin = 0 
+            xmax = 3.0449374999999943 
+            text = "silent" 
+        intervals [2]:
+            xmin = 3.0449374999999943 
+            xmax = 3.3489374999999946 
+            text = "sounding" 
+        intervals [3]:
+            xmin = 3.3489374999999946 
+            xmax = 3.7009374999999944 
+            text = "silent" 
+        intervals [4]:
+            xmin = 3.7009374999999944 
+            xmax = 4.052937499999994 
+            text = "sounding" 
+        intervals [5]:
+            xmin = 4.052937499999994 
+            xmax = 5.604937499999995 
+            text = "silent" 
+        intervals [6]:
+            xmin = 5.604937499999995 
+            xmax = 5.908937499999994 
+            text = "sounding" 
+        intervals [7]:
+            xmin = 5.908937499999994 
+            xmax = 6.852937499999994 
+            text = "silent" 
+        intervals [8]:
+            xmin = 6.852937499999994 
+            xmax = 7.188937499999994 
+            text = "sounding" 
+        intervals [9]:
+            xmin = 7.188937499999994 
+            xmax = 8.308937499999995 
+            text = "silent" 
+        intervals [10]:
+            xmin = 8.308937499999995 
+            xmax = 10.484937499999994 
+            text = "sounding" 
+        intervals [11]:
+            xmin = 10.484937499999994 
+            xmax = 11.588937499999993 
+            text = "silent" 
+        intervals [12]:
+            xmin = 11.588937499999993 
+            xmax = 11.892937499999995 
+            text = "sounding" 
+        intervals [13]:
+            xmin = 11.892937499999995 
+            xmax = 12.404937499999996 
+            text = "silent" 
+        intervals [14]:
+            xmin = 12.404937499999996 
+            xmax = 12.532937499999996 
+            text = "sounding" 
+        intervals [15]:
+            xmin = 12.532937499999996 
+            xmax = 13.108937499999996 
+            text = "silent" 
+        intervals [16]:
+            xmin = 13.108937499999996 
+            xmax = 18.484937499999994 
+            text = "sounding" 
+        intervals [17]:
+            xmin = 18.484937499999994 
+            xmax = 18.948937499999992 
+            text = "silent" 
+        intervals [18]:
+            xmin = 18.948937499999992 
+            xmax = 20.340937499999995 
+            text = "sounding" 
+        intervals [19]:
+            xmin = 20.340937499999995 
+            xmax = 21.732937499999995 
+            text = "silent" 
+        intervals [20]:
+            xmin = 21.732937499999995 
+            xmax = 22.164937499999994 
+            text = "sounding" 
+        intervals [21]:
+            xmin = 22.164937499999994 
+            xmax = 23.508937499999995 
+            text = "silent" 
+        intervals [22]:
+            xmin = 23.508937499999995 
+            xmax = 26.212937499999995 
+            text = "sounding" 
+        intervals [23]:
+            xmin = 26.212937499999995 
+            xmax = 28.276937499999995 
+            text = "silent" 
+        intervals [24]:
+            xmin = 28.276937499999995 
+            xmax = 28.820937499999992 
+            text = "sounding" 
+        intervals [25]:
+            xmin = 28.820937499999992 
+            xmax = 30.980937499999992 
+            text = "silent" 
+        intervals [26]:
+            xmin = 30.980937499999992 
+            xmax = 31.188937499999994 
+            text = "sounding" 
+        intervals [27]:
+            xmin = 31.188937499999994 
+            xmax = 32.788937499999996 
+            text = "silent" 
+        intervals [28]:
+            xmin = 32.788937499999996 
+            xmax = 33.9729375 
+            text = "sounding" 
+        intervals [29]:
+            xmin = 33.9729375 
+            xmax = 35.2049375 
+            text = "silent" 
+        intervals [30]:
+            xmin = 35.2049375 
+            xmax = 35.5409375 
+            text = "sounding" 
+        intervals [31]:
+            xmin = 35.5409375 
+            xmax = 35.9249375 
+            text = "silent" 
+        intervals [32]:
+            xmin = 35.9249375 
+            xmax = 37.7809375 
+            text = "sounding" 
+        intervals [33]:
+            xmin = 37.7809375 
+            xmax = 39.3489375 
+            text = "silent" 
+        intervals [34]:
+            xmin = 39.3489375 
+            xmax = 39.764937499999995 
+            text = "sounding" 
+        intervals [35]:
+            xmin = 39.764937499999995 
+            xmax = 41.044937499999996 
+            text = "silent" 
+        intervals [36]:
+            xmin = 41.044937499999996 
+            xmax = 43.6209375 
+            text = "sounding" 
+        intervals [37]:
+            xmin = 43.6209375 
+            xmax = 43.9409375 
+            text = "silent" 
+        intervals [38]:
+            xmin = 43.9409375 
+            xmax = 47.7329375 
+            text = "sounding" 
+        intervals [39]:
+            xmin = 47.7329375 
+            xmax = 49.3969375 
+            text = "silent" 
+        intervals [40]:
+            xmin = 49.3969375 
+            xmax = 49.6049375 
+            text = "sounding" 
+        intervals [41]:
+            xmin = 49.6049375 
+            xmax = 51.1569375 
+            text = "silent" 
+        intervals [42]:
+            xmin = 51.1569375 
+            xmax = 55.2689375 
+            text = "sounding" 
+        intervals [43]:
+            xmin = 55.2689375 
+            xmax = 55.6529375 
+            text = "silent" 
+        intervals [44]:
+            xmin = 55.6529375 
+            xmax = 58.9649375 
+            text = "sounding" 
+        intervals [45]:
+            xmin = 58.9649375 
+            xmax = 59.6049375 
+            text = "silent" 
+        intervals [46]:
+            xmin = 59.6049375 
+            xmax = 63.0289375 
+            text = "sounding" 
+        intervals [47]:
+            xmin = 63.0289375 
+            xmax = 64.5489375 
+            text = "silent" 
+        intervals [48]:
+            xmin = 64.5489375 
+            xmax = 64.74093749999999 
+            text = "sounding" 
+        intervals [49]:
+            xmin = 64.74093749999999 
+            xmax = 65.79693749999998 
+            text = "silent" 
+        intervals [50]:
+            xmin = 65.79693749999998 
+            xmax = 66.1329375 
+            text = "sounding" 
+        intervals [51]:
+            xmin = 66.1329375 
+            xmax = 66.5489375 
+            text = "silent" 
+        intervals [52]:
+            xmin = 66.5489375 
+            xmax = 70.91693749999999 
+            text = "sounding" 
+        intervals [53]:
+            xmin = 70.91693749999999 
+            xmax = 72.96493749999999 
+            text = "silent" 
+        intervals [54]:
+            xmin = 72.96493749999999 
+            xmax = 73.20493749999999 
+            text = "sounding" 
+        intervals [55]:
+            xmin = 73.20493749999999 
+            xmax = 74.4689375 
+            text = "silent" 
+        intervals [56]:
+            xmin = 74.4689375 
+            xmax = 78.06893749999999 
+            text = "sounding" 
+        intervals [57]:
+            xmin = 78.06893749999999 
+            xmax = 78.94893749999999 
+            text = "silent" 
+        intervals [58]:
+            xmin = 78.94893749999999 
+            xmax = 79.60493749999999 
+            text = "sounding" 
+        intervals [59]:
+            xmin = 79.60493749999999 
+            xmax = 80.37293749999999 
+            text = "silent" 
+        intervals [60]:
+            xmin = 80.37293749999999 
+            xmax = 81.9569375 
+            text = "sounding" 
+        intervals [61]:
+            xmin = 81.9569375 
+            xmax = 83.3169375 
+            text = "silent" 
+        intervals [62]:
+            xmin = 83.3169375 
+            xmax = 83.8769375 
+            text = "sounding" 
+        intervals [63]:
+            xmin = 83.8769375 
+            xmax = 84.83693749999999 
+            text = "silent" 
+        intervals [64]:
+            xmin = 84.83693749999999 
+            xmax = 86.9329375 
+            text = "sounding" 
+        intervals [65]:
+            xmin = 86.9329375 
+            xmax = 87.8289375 
+            text = "silent" 
+        intervals [66]:
+            xmin = 87.8289375 
+            xmax = 88.9809375 
+            text = "sounding" 
+        intervals [67]:
+            xmin = 88.9809375 
+            xmax = 89.7809375 
+            text = "silent" 
+        intervals [68]:
+            xmin = 89.7809375 
+            xmax = 93.01293749999999 
+            text = "sounding" 
+        intervals [69]:
+            xmin = 93.01293749999999 
+            xmax = 94.2609375 
+            text = "silent" 
+        intervals [70]:
+            xmin = 94.2609375 
+            xmax = 95.1089375 
+            text = "sounding" 
+        intervals [71]:
+            xmin = 95.1089375 
+            xmax = 96.5969375 
+            text = "silent" 
+        intervals [72]:
+            xmin = 96.5969375 
+            xmax = 97.09293749999999 
+            text = "sounding" 
+        intervals [73]:
+            xmin = 97.09293749999999 
+            xmax = 98.1649375 
+            text = "silent" 
+        intervals [74]:
+            xmin = 98.1649375 
+            xmax = 99.1569375 
+            text = "sounding" 
+        intervals [75]:
+            xmin = 99.1569375 
+            xmax = 99.46093749999999 
+            text = "silent" 
+        intervals [76]:
+            xmin = 99.46093749999999 
+            xmax = 100.02093749999999 
+            text = "sounding" 
+        intervals [77]:
+            xmin = 100.02093749999999 
+            xmax = 101.0289375 
+            text = "silent" 
+        intervals [78]:
+            xmin = 101.0289375 
+            xmax = 102.6449375 
+            text = "sounding" 
+        intervals [79]:
+            xmin = 102.6449375 
+            xmax = 103.7969375 
+            text = "silent" 
+        intervals [80]:
+            xmin = 103.7969375 
+            xmax = 104.7249375 
+            text = "sounding" 
+        intervals [81]:
+            xmin = 104.7249375 
+            xmax = 105.30093749999999 
+            text = "silent" 
+        intervals [82]:
+            xmin = 105.30093749999999 
+            xmax = 106.78893749999999 
+            text = "sounding" 
+        intervals [83]:
+            xmin = 106.78893749999999 
+            xmax = 107.9569375 
+            text = "silent" 
+        intervals [84]:
+            xmin = 107.9569375 
+            xmax = 108.1649375 
+            text = "sounding" 
+        intervals [85]:
+            xmin = 108.1649375 
+            xmax = 109.1889375 
+            text = "silent" 
+        intervals [86]:
+            xmin = 109.1889375 
+            xmax = 111.26893749999999 
+            text = "sounding" 
+        intervals [87]:
+            xmin = 111.26893749999999 
+            xmax = 112.40493749999999 
+            text = "silent" 
+        intervals [88]:
+            xmin = 112.40493749999999 
+            xmax = 113.7489375 
+            text = "sounding" 
+        intervals [89]:
+            xmin = 113.7489375 
+            xmax = 115.68493749999999 
+            text = "silent" 
+        intervals [90]:
+            xmin = 115.68493749999999 
+            xmax = 116.6929375 
+            text = "sounding" 
+        intervals [91]:
+            xmin = 116.6929375 
+            xmax = 118.35693749999999 
+            text = "silent" 
+        intervals [92]:
+            xmin = 118.35693749999999 
+            xmax = 119.3649375 
+            text = "sounding" 
+        intervals [93]:
+            xmin = 119.3649375 
+            xmax = 119.68493749999999 
+            text = "silent" 
+        intervals [94]:
+            xmin = 119.68493749999999 
+            xmax = 122.0529375 
+            text = "sounding" 
+        intervals [95]:
+            xmin = 122.0529375 
+            xmax = 123.9089375 
+            text = "silent" 
+        intervals [96]:
+            xmin = 123.9089375 
+            xmax = 125.22093749999999 
+            text = "sounding" 
+        intervals [97]:
+            xmin = 125.22093749999999 
+            xmax = 126.32493749999999 
+            text = "silent" 
+        intervals [98]:
+            xmin = 126.32493749999999 
+            xmax = 129.2369375 
+            text = "sounding" 
+        intervals [99]:
+            xmin = 129.2369375 
+            xmax = 130.5489375 
+            text = "silent" 
+        intervals [100]:
+            xmin = 130.5489375 
+            xmax = 130.75693750000002 
+            text = "sounding" 
+        intervals [101]:
+            xmin = 130.75693750000002 
+            xmax = 132.0529375 
+            text = "silent" 
+        intervals [102]:
+            xmin = 132.0529375 
+            xmax = 133.17293750000002 
+            text = "sounding" 
+        intervals [103]:
+            xmin = 133.17293750000002 
+            xmax = 134.96493750000002 
+            text = "silent" 
+        intervals [104]:
+            xmin = 134.96493750000002 
+            xmax = 136.6769375 
+            text = "sounding" 
+        intervals [105]:
+            xmin = 136.6769375 
+            xmax = 137.7809375 
+            text = "silent" 
+        intervals [106]:
+            xmin = 137.7809375 
+            xmax = 140.5809375 
+            text = "sounding" 
+        intervals [107]:
+            xmin = 140.5809375 
+            xmax = 141.4929375 
+            text = "silent" 
+        intervals [108]:
+            xmin = 141.4929375 
+            xmax = 141.8289375 
+            text = "sounding" 
+        intervals [109]:
+            xmin = 141.8289375 
+            xmax = 142.9809375 
+            text = "silent" 
+        intervals [110]:
+            xmin = 142.9809375 
+            xmax = 146.2129375 
+            text = "sounding" 
+        intervals [111]:
+            xmin = 146.2129375 
+            xmax = 147.2049375 
+            text = "silent" 
+        intervals [112]:
+            xmin = 147.2049375 
+            xmax = 148.0369375 
+            text = "sounding" 
+        intervals [113]:
+            xmin = 148.0369375 
+            xmax = 149.3969375 
+            text = "silent" 
+        intervals [114]:
+            xmin = 149.3969375 
+            xmax = 149.9729375 
+            text = "sounding" 
+        intervals [115]:
+            xmin = 149.9729375 
+            xmax = 151.26893750000002 
+            text = "silent" 
+        intervals [116]:
+            xmin = 151.26893750000002 
+            xmax = 152.9969375 
+            text = "sounding" 
+        intervals [117]:
+            xmin = 152.9969375 
+            xmax = 154.8049375 
+            text = "silent" 
+        intervals [118]:
+            xmin = 154.8049375 
+            xmax = 156.2769375 
+            text = "sounding" 
+        intervals [119]:
+            xmin = 156.2769375 
+            xmax = 157.8609375 
+            text = "silent" 
+        intervals [120]:
+            xmin = 157.8609375 
+            xmax = 159.2049375 
+            text = "sounding" 
+        intervals [121]:
+            xmin = 159.2049375 
+            xmax = 160.6289375 
+            text = "silent" 
+        intervals [122]:
+            xmin = 160.6289375 
+            xmax = 160.7729375 
+            text = "sounding" 
+        intervals [123]:
+            xmin = 160.7729375 
+            xmax = 161.0929375 
+            text = "silent" 
+        intervals [124]:
+            xmin = 161.0929375 
+            xmax = 163.7649375 
+            text = "sounding" 
+        intervals [125]:
+            xmin = 163.7649375 
+            xmax = 164.10093750000001 
+            text = "silent" 
+        intervals [126]:
+            xmin = 164.10093750000001 
+            xmax = 166.96493750000002 
+            text = "sounding" 
+        intervals [127]:
+            xmin = 166.96493750000002 
+            xmax = 167.7489375 
+            text = "silent" 
+        intervals [128]:
+            xmin = 167.7489375 
+            xmax = 167.9729375 
+            text = "sounding" 
+        intervals [129]:
+            xmin = 167.9729375 
+            xmax = 168.2929375 
+            text = "silent" 
+        intervals [130]:
+            xmin = 168.2929375 
+            xmax = 168.4849375 
+            text = "sounding" 
+        intervals [131]:
+            xmin = 168.4849375 
+            xmax = 169.6209375 
+            text = "silent" 
+        intervals [132]:
+            xmin = 169.6209375 
+            xmax = 170.5809375 
+            text = "sounding" 
+        intervals [133]:
+            xmin = 170.5809375 
+            xmax = 171.4609375 
+            text = "silent" 
+        intervals [134]:
+            xmin = 171.4609375 
+            xmax = 171.78093750000002 
+            text = "sounding" 
+        intervals [135]:
+            xmin = 171.78093750000002 
+            xmax = 173.78093750000002 
+            text = "silent" 
+        intervals [136]:
+            xmin = 173.78093750000002 
+            xmax = 174.61293750000002 
+            text = "sounding" 
+        intervals [137]:
+            xmin = 174.61293750000002 
+            xmax = 175.241875 
+            text = "silent" 
